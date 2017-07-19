@@ -21,9 +21,9 @@ conversation = ConversationV1(
     password='wMCxakn17KSZ',
     version='2017-02-03')
 
-#natural_language_classifier = NaturalLanguageClassifierV1(
-#	username='fa6bffcd-ebac-4ece-8b20-9baf4c23f78d',
-#	password='8OmO1tBVONCP')
+natural_language_classifier = NaturalLanguageClassifierV1(
+	username='fa6bffcd-ebac-4ece-8b20-9baf4c23f78d',
+	password='8OmO1tBVONCP')
 
 	
 print("inside global application")
@@ -44,12 +44,13 @@ def get():
 
 @app.route("/", methods=['GET','POST'])
 def post(): 
+	print('*******starting post method****')
 	data = request.form['message']
 	#with open('static/doc/training_data2.csv', 'rb') as training_data:
 		#classifier = natural_language_classifier.create(training_data=training_data,name='compliancebot_training_data',language='en')
-		#classifier = natural_language_classifier.list()
-		#classifier = natural_language_classifier.classify('1c5f1ex204-nlc-39444',data)
-		#print(json.dumps(classifier, indent=2))
+	#	classifier = natural_language_classifier.list()
+	#	classifier = natural_language_classifier.classify('1c5f1ex204-nlc-39444',data)
+	#	print(json.dumps(classifier, indent=2))
 	context = {}
 	try:
 		if 'context' in session:
@@ -65,13 +66,13 @@ def post():
 	
 	if 'context' in session:
 		session['context'] = json.dumps(response['context'])
-		print(session['context'])
+	#	print(session['context'])
 	
-	json_data = {}
-	script3 = """<html></html>"""
-	url=""
+	#json_data = {}
+	#script3 = """<html></html>"""
+	#url=""
 
-	try:
+	""""try:
 		if str(response['context']['action']) == 'cust_details_action':
 			try:
 				cust_detail = str(response['context']['param'])
@@ -87,7 +88,7 @@ def post():
 				print('connection issue!!!')
 	except:
 		print("cust_details_action not found!")
-		
+	"""	
 
 #		script2 = """<html>
 #			<p style='visibility:hidden;' id='context' name='context'>{code}</p>
@@ -101,14 +102,13 @@ def post():
 		print("confidence not exist")
 		
 		
-	try:
-		response = str(response['output']['text'][0]) + script4
-	except:
-		response= "Could you please come again with the query or refresh the page."
-	print("leaving post method*********************************************************************")
+	response = str(response['output']['text'][0]) + script4
+	
+	print("******leaving post method*********")
 	return str(response)
 
 if __name__ == "__main__":
 	port = int(os.environ.get("PORT", 50000))
 	app.run(debug=True, host='0.0.0.0', port=port)
-
+	
+	
