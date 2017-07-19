@@ -59,47 +59,50 @@ def post():
 	
 	response = conversation.message(workspace_id = conv_workspace_id, message_input={'text' : data },context = context)
 	#print("***********"+json.dumps(response,indent=2)+"***************")
-	if response['intents'][0]['intent']:
-		name = response['intents'][0]['intent']
-		if name == 'goodbye' or name == 'courtesy' or name == 'greetings':
-			print('smalltalk')
-		else:
-			try:
-				with open('static/doc/training_data2.csv', 'rb') as training_data:
-					#classifier = natural_language_classifier.create(training_data=training_data,name='compliancebot_training_data',language='en')
-					classifier = natural_language_classifier.list()
-					classifier = natural_language_classifier.classify('1c5f1ex204-nlc-39444',data)
-				#	print(json.dumps(classifier, indent=2))
-					i = 0
-					j = 0
-					class_name = [None] * 3
-					while (j < 3):
-						class_name[j] = classifier['classes'][i]['class_name']
-						if class_name[j] == 'goodbye' or class_name[j] == 'emotions' or class_name[j] == 'courtesy' or class_name[j] == 'greetings' or class_name[j] == 'intro':
+	try:
+		if response['intents'][0]['intent']:
+			name = response['intents'][0]['intent']
+			if name == 'goodbye' or name == 'courtesy' or name == 'greetings':
+				print('smalltalk')
+			else:
+				try:
+					with open('static/doc/training_data2.csv', 'rb') as training_data:
+						#classifier = natural_language_classifier.create(training_data=training_data,name='compliancebot_training_data',language='en')
+						classifier = natural_language_classifier.list()
+						classifier = natural_language_classifier.classify('1c5f1ex204-nlc-39444',data)
+					#	print(json.dumps(classifier, indent=2))
+						i = 0
+						j = 0
+						class_name = [None] * 3
+						while (j < 3):
+							class_name[j] = classifier['classes'][i]['class_name']
+							if class_name[j] == 'goodbye' or class_name[j] == 'emotions' or class_name[j] == 'courtesy' or class_name[j] == 'greetings' or class_name[j] == 'intro':
+								i = i + 1
+								continue
+							j = j + 1
 							i = i + 1
-							continue
-						j = j + 1
-						i = i + 1
-					print(class_name)
-					i = 0
-					example_list = [None] * 3
-					while (i < 3):
-						examples = conversation.list_examples(workspace_id = conv_workspace_id,intent = class_name[i],page_limit=None, include_count=None, sort=None, cursor=None)
-						example_list[i] = examples['examples'][0]['text']
-						i = i +1
-					print(example_list)
-					
-					script10 = """<html><hr><body>
-					<strong>Corresponding queries:</strong><br>
-					<ul>
-					<li>{query1}</li>
-					<li>{query2}</li>
-					<li>{query3}</li>
-					</ul>
-					<body><html>""".format(query1=example_list[0],query2=example_list[1],query3=example_list[2])
-			except:
-				print('examples not listed')
-	else:
+						print(class_name)
+						i = 0
+						example_list = [None] * 3
+						while (i < 3):
+							examples = conversation.list_examples(workspace_id = conv_workspace_id,intent = class_name[i],page_limit=None, include_count=None, sort=None, cursor=None)
+							example_list[i] = examples['examples'][0]['text']
+							i = i +1
+						print(example_list)
+						
+						script10 = """<html><hr><body>
+						<strong>Corresponding queries:</strong><br>
+						<ul>
+						<li>{query1}</li>
+						<li>{query2}</li>
+						<li>{query3}</li>
+						</ul>
+						<body><html>""".format(query1=example_list[0],query2=example_list[1],query3=example_list[2])
+				except:
+					print('examples not listed')
+		else:
+			print('intent not exist')
+	except:
 		print('intent not exist')
 	
 	if 'context' in session:
