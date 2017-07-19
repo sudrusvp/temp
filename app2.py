@@ -102,7 +102,9 @@ def post():
 		print("confidence not exist")
 		
 		
-	response = str(response['output']['text'][0]).strip() + script4
+	response = str(response['output']['text'][0]).strip()
+	response = u' '.join((response, script4)).encode('utf-8').strip()
+
 	
 	print("******leaving post method*********")
 	return str(response)
