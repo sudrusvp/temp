@@ -1,0 +1,5 @@
+---
+applications:
+ - name: compliancebotdev
+   random-route: true
+   memory: 128M

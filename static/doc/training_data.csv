@@ -1,0 +1,123 @@
+what is gsa,access_gsa
+gsa,access_gsa
+request access for GSA folder in ECM,access_gsa
+how can I access GSA folder in ECM,access_gsa
+how do I activate the automatic opening of a CIRATS's issue,activate_opening_of_CIRATS
+open cirats issue,activate_opening_of_CIRATS
+how many devices associated with the account that are considered in ECM report?,associated_device_to_ecm
+change one HC to another,change_HC_to_another
+How do I inform ECM that I have changed from one Health checking tool or Vulnerability scan tool to another  tool,change_HC_to_another
+connect hc to ecm,connect_disconnect_tools_to_ECM
+How do I connect or disconnect health checking and vulnerability scanning tools to ECM?,connect_disconnect_tools_to_ECM
+contact ECM AP GEO FOCAL,contact
+contact details for ECM AP GEO FOCAL,contact
+I need to call the administrator of ECM AP GEO FOCAL,contact
+contact to   person ECM AP GEO FOCAL,contact
+ecm gpo,contact
+good,courtesy
+well done,courtesy
+please,courtesy
+sorry,courtesy
+you are welcome,courtesy
+I appreciate it,courtesy
+thank you,courtesy
+thanks,courtesy
+no problem,courtesy
+criteria for a server to be in production,criteria_for_server_in_prod
+Can customers access the ECM portal directly to view reports and information?,customer_access_to_ECM_portal
+Does ECM replace my current health checking tools such as Tivoli SCM or VSA,Does_ecm_replace
+Does ECM support manual health-checking?,does_support_manual_hc
+how long will the HC scan data stored in ECM,duration_of_HC_data_in_ecm
+how long the scan artefacts stored in ecm,duration_of_HC_data_in_ecm
+How long does it take for the ECM administrator to process requests?,duration_process_request_ECM_admin
+what is ECM business process,ecm_business_process
+workflow of ECM,ecm_business_process
+ECM device support,ECM_device_support
+For what types of devices does ECM track compliance information?,ECM_device_support
+does ECM have internal  security,ECM_internal_security
+cool,emotions
+wow,emotions
+haha,emotions
+woww,emotions
+la la,emotions
+ha ha,emotions
+what is expired compliance status,expired_compliance_status
+cu,goodbye
+I have to go,goodbye
+get lost,goodbye
+bye,goodbye
+nice to talk to you,goodbye
+nice to meet you,goodbye
+see you,goodbye
+what is grace period,grace_period
+howdy,greetings
+good evening,greetings
+good afternoon,greetings
+greeting,greetings
+what's up?,greetings
+hello,greetings
+hey,greetings
+Hi,greetings
+what is input output to ECM,input_output_to_ecm
+who are you,intro
+how are you feeling,intro
+how are you,intro
+how old are you,intro
+what is your age,intro
+tell me your name,intro
+what are the inventory data attributes,inventory_data_attr
+what is inventory data for ecm,inventory_data_ecm
+where are the reports available in ECM,know_reports_in_ecm
+how do I know the reports available in ECM and descriptions of these reports,know_reports_in_ecm
+ECM report,know_reports_in_ecm
+what is missing compliance status,missing_compliance_status
+name,name
+what is your name,name
+whats your name,name
+what's your name,name
+how do I open requirement,open_requirement_suggestion
+how do I open suggestion,open_requirement_suggestion
+orange triangle status in ecm report,orange_triangle
+what is orange X status means in ECM report,orange_x
+what is operating system compliance,OS_compliance
+os compliance,OS_compliance
+what is red X status means in ECM report,red_X
+what are the reporting areas supported by ECM,reporting_areas_support_by_ecm
+how do I request access to ECM?,request_access_ecm
+How do I request my scan data to be pulled or stopped from being pulled into ECM?,request_data_pull_stop_to_ecm
+How do I restrict the access to an account when it is a customer contractual requirement?,restrict_access_to_account_customer_requirement
+revoking access to ecm,revoke_access_ecm
+revoke access to ecm,revoke_access_ecm
+can I make request for revoking access to ecm,revoke_access_ecm
+How is the scan policy name used in ECM?,scan_policy_name
+what is the naming convention of scan policy in ECM?,scan_policy_name
+Why are my servers not showing into the Customer Overview?,servers_not_in_cust_overview
+Why is my scan not showing in System Overview?,servers_not_in_cust_overview
+Storage support on ECM,storage_support_on_ecm
+does ECM support double byte character,support_double_byte_char
+what is deviation management,suppression_deviation_management
+who will receive email notification of ECM report,to_whom_email_notify
+email is sent to whom,to_whom_email_notify
+to whom email will be recieved,to_whom_email_notify
+what is violation management,violation_management
+ecm functionality,what_ecm_do
+what is the work of ecm,what_ecm_do
+what are the activities done by ecm,what_ecm_do
+what ECM can do,what_ecm_do
+functions of ecm,what_ecm_do
+ecm,What_is_ECM
+I want to know more about ECM,What_is_ECM
+What is ECM,What_is_ECM
+tell me about ECM,What_is_ECM
+when ecm pull data,when_ecm_pull_data
+When does ECM pull data from scanning tools?,when_ecm_pull_data
+when would I receive the email notification for ecm report,when_email
+when email will be recieved,when_email
+When the new tool is going through Sec-Mart like VSA Foundstone NSA Qualys  NST  TRT,when_tool_secMart
+Why is access to ECM restricted?,why_access_to_ecm_restricted
+why is ECM necessary,why_ECM
+what is the need of ecm,why_ECM
+why ecm is used,why_ECM
+need for ecm,why_ECM
+functions of ecm,why_ECM
+why ecm is required,why_ECM
