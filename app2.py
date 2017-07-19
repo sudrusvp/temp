@@ -104,6 +104,8 @@ def post():
 			<li>{query3}</li>
 			</ul>
 			<body><html>""".format(query1=example_list[0],query2=example_list[1],query3=example_list[2])
+	else:
+		print('classnameflag false')
 	
 	if 'context' in session:
 		session['context'] = json.dumps(response['context'])
