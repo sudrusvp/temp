@@ -1,0 +1,484 @@
+do action on cirats account,Cirats_account_actions
+what are the account action plans in cirats,Cirats_account_actions
+cirats account actions,Cirats_account_actions
+cirats account add,Cirats_account_add
+how can I add account in cirats,Cirats_account_add
+how can I delete account in cirats,Cirats_account_delete
+cirats account delete,Cirats_account_delete
+cirats account edit,Cirats_account_edit
+how can I edit account in cirats,Cirats_account_edit
+cirats account specific device type,Cirats_account_specific_device_type
+cirats adding action plan to NCI,Cirats_action_plan_Noncompliance_issue
+How can I add an action plan in cirats,Cirats_add_action_plan_record
+cirats adding platform and system type,Cirats_adding_platform
+how can I add platform in cirats,Cirats_adding_platform
+add technical contact to dept,Cirats_add_technical_contact_department
+How can I add technical contacts to my departments,Cirats_add_technical_contact_department
+how can I close NCI in cirats,Cirats_Close_Noncompliance_issue
+propose to close NCI,Cirats_Close_Noncompliance_issue
+close nci,Cirats_Close_Noncompliance_issue
+close record in cirats,Cirats_close_records
+How can I close a record in cirats,Cirats_close_records
+how can I close pa,Cirats_closing_PA
+closing PA,Cirats_closing_PA
+cirats contact details,cirats_contact
+Who are Key Contacts and IOT focals?,cirats_contact
+how can I create NCI in cirats,Cirats_Creating_Noncompliance_issue
+creating NCI,Cirats_Creating_Noncompliance_issue
+creating PA,Cirats_creating_PA
+how can I create pa in cirats,Cirats_creating_PA
+customer notification in cirats,Cirats_customer_notification
+what is customer notification in cirats,Cirats_customer_notification
+How can I set customer notification,Cirats_customer_notification_account_commercial
+set customer notification,Cirats_customer_notification_account_commercial
+how can I extend NCI,Cirats_date_extension_process
+extending NCI using date extension process,Cirats_date_extension_process
+delete dept in cirats,Cirats_delete_department
+How can I delete my department,Cirats_delete_department
+delete platform in cirats,Cirats_deleting_platform
+deleting platform and system type,Cirats_deleting_platform
+how can I delete platform in cirats,Cirats_deleting_platform
+department actions in cirats,Cirats_department_actions
+how can I add department in cirats,Cirats_department_add
+department add in cirats,Cirats_department_add
+how can I delete department in cirats,Cirats_department_delete
+department delete in cirats,Cirats_department_delete
+department edit in cirats,Cirats_department_edit
+how can I edit department in cirats,Cirats_department_edit
+got error message on department update in cirats,Cirats_department_id_division_code_update_bluepages
+Why do receive error message when department is updated,Cirats_department_id_division_code_update_bluepages
+device types in cirats,Cirats_device_type
+what are the device type in cirats,Cirats_device_type
+How can I change or modify device type in cirats,Cirats_device_type_account_DPE_disable_enable
+How can I edit my account document in cirats,Cirats_edit_account_document_DPE_delegate
+define ISeC for Medium and Low severity,Cirats_Isec
+cirats Isec,Cirats_Isec
+modify or disable device type in cirats,Cirats_modify_diable_device_type
+re open NCI in cirats,Cirats_Noncompliance_issue
+re-opening NCI in cirats,Cirats_Noncompliance_issue
+Non compliance issue actions in cirats,Cirats_Noncompliance_issue_actions
+Why dont I receive PA notifications from the tool,Cirats_notifications_supported_product_software_platform_type_patch_advisory
+How can I open an NCI record,Cirats_open_new_record
+How can I change the originator,Cirats_originator_record_role
+extension of PA using date extention process,Cirats_PA_date_extension_process
+extending PA using date extension process,Cirats_PA_date_extension_process
+marking PA as installed in cirats,Cirats_PA_installed
+how can I mark PA as installed,Cirats_PA_installed
+how can I mark PA as NA in cirats,Cirats_PA_NA
+marking PA as NA in cirats,Cirats_PA_NA
+extending PA using risk evaluation process,Cirats_PA_risk_evaluation_process
+extension of PA using risk evaluatuion process in cirats,Cirats_PA_risk_evaluation_process
+cirats PA actions,Cirats_Patch_advisory
+Patch advisory actions in cirats,Cirats_Patch_advisory
+How can I close a patch advisory as not- applicable,Cirats_patch_advisory_not_applicable
+close PA in cirats,Cirats_patch_advisory_not_applicable
+tell me about platforms in cirats,Cirats_platform
+cirats platform,Cirats_platform
+Why cant I see the records in cirats,Cirats_record_role_access_user_view
+not able to see records in cirats,Cirats_record_role_access_user_view
+records not visible in cirats,Cirats_record_role_access_user_view
+open closed records in cirats,Cirats_reopen_closed_records
+How can I reopen my closed records in cirats,Cirats_reopen_closed_records
+re open PA in cirats,Cirats_re_opening_PA
+how can I reopen PA,Cirats_re_opening_PA
+re-opening PA in cirats,Cirats_re_opening_PA
+extending NCI using risk evaluation process,Cirats_risk_evaluation_process
+Where can I find supported softwares in cirats,Cirats_supported_software_patch_advisory
+How can I transfer records from one department to another in cirats,Cirats_transfer_records
+transferring NCI in cirats,Cirats_transferring_Noncompliance_issue
+transferring PA in cirats,Cirats_transferring_PA
+How can I validate my department in cirats,Cirats_validate_department_account
+validate dept in cirats,Cirats_validate_department_account
+what cirats do,cirats_what_cirats
+what is cirats,cirats_what_cirats
+can you tell me about cirats,cirats_what_cirats
+tell me more about cirats,cirats_wiki
+cirats wiki link,cirats_wiki
+good,courtesy
+thank you,courtesy
+well done,courtesy
+I appreciate it,courtesy
+no problem,courtesy
+please,courtesy
+sorry,courtesy
+thanks,courtesy
+you are welcome,courtesy
+How to see current session data in urt,current_session_data
+give me employee details,customer_detail
+user details,customer_detail
+give me customer details,customer_detail
+I need customer info,customer_detail
+I want customer details,customer_detail
+customer information,customer_detail
+give me customer information,customer_detail
+provide customer details,customer_detail
+access cwp,CWP_access_cwp
+how can I access to CWP,CWP_access_cwp
+access ag cwp,CWP_access_cwp_ag
+access cwp ag,CWP_access_cwp_ag
+how can I access AG CWP,CWP_access_cwp_ag
+how can I access AP CWP,CWP_access_cwp_ap
+access ap cwp,CWP_access_cwp_ap
+access cwp ap,CWP_access_cwp_ap
+access cwp eu,CWP_access_cwp_eu
+how can I access EU CWP,CWP_access_cwp_eu
+access eu cwp,CWP_access_cwp_eu
+I do not see my account listed in CWP,CWP_account_listed_dataentry
+any cognos related question suggestion,CWP_cognos
+I want to know about CWP cognos,CWP_cognos
+cwp cognos,CWP_cognos
+CWP contact,CWP_contact
+How can I Create_Delete_Modify an account,CWP_create_delete_modify_an_account
+What is the status of my access request,CWP_status_access
+what is the target date of,CWP_targetdate
+I need to re-open a data entry point,CWP_unsubmit
+how to unsubmit data,CWP_unsubmit
+how can I get ecm eu access,ECM_access_ECM
+access ECM,ECM_access_ECM
+how can I access ECM,ECM_access_ECM
+how can I access ECM AG,ECM_access_Ecm_AG
+access ecm ag,ECM_access_Ecm_AG
+access ecm emea,ECM_access_EMEA
+how can I access ECM EMEA,ECM_access_EMEA
+access gsa,ECM_access_gsa_folders
+access gsa folder,ECM_access_gsa_folders
+how can I access the GSA folders,ECM_access_gsa_folders
+contact ECM_AG,ECM_AG_task_ID
+the ECM AG task ID,ECM_AG_task_ID
+Do ECM has API channel,ECM_API_Channel
+contact ECM_AP,ECM_AP_task_ID
+the ECM AP task ID,ECM_AP_task_ID
+Is there any connection between ECM and CIRATS,ECM_connection_Cirats
+ecm contact,ECM_contact_list
+ecm contacts,ECM_contact_list
+Is there any documentation regarding ECM tool,ECM_documentation
+How does ECM work,ECM_ECM_work
+contact ecm_EMEA,ECM_EMEA_task_ID
+the ECM EMEA task ID,ECM_EMEA_task_ID
+how can I upload Manual ID Compliance data,ECM_file_upload_manaul_ID
+how can I upload Manual Health Check,ECM_file_upload_manual_health_check
+I need a function but it is not available,ECM_function_available_ECM_usage
+Is there any list which contains what kind of functions will be developed in ECM,ECM_functions_developed_ECM_usage
+how can I get access to GSA folders for AG users,ECM_gsa_AG
+access gsa in ag,ECM_gsa_AG
+access gsa in emea,ECM_gsa_EMEA
+how can I get access to GSA folders for EMEA users,ECM_gsa_EMEA
+How can HC uploaded to ECM for storage systems,ECM_HC
+Automatic HC data not reflecting,ECM_HC
+How to change IP address_hostname_flags,ECM_Inventory
+Is ECM available from outside of IBM network,ECM_outside_IBM_ECM_usage
+How can I reach the ECM tool,ECM_reach_EcmTool
+How can a report be generated in ECM,ECM_report_generated
+how can I revoke access from ecm,ECM_revoking_access
+how can I request revoking an access,ECM_revoking_access
+what is suppression management in ECM,ECM_Suppression
+suppression management,ECM_Suppression
+How suppression function is working,ECM_Suppression
+upload files to ecm,ECM_upload_files
+how can I upload files to ECM,ECM_upload_files
+how files can be uploaded to ecm,ECM_upload_files
+what is meant by ecm,ECM_What_ECM
+what do you by ecm,ECM_What_ECM
+what is ECM,ECM_What_ECM
+tell me something about ecm,ECM_What_ECM
+ecm,ECM_What_ECM
+epolicy,epolicy_about_epolicy
+What is ePolicy,epolicy_about_epolicy
+tell me something about epolicy,epolicy_about_epolicy
+How to get an access to epolicy,epolicy_access_ePolicy
+epolicy access,epolicy_access_ePolicy
+types of epolicy access,epolicy_access_types
+What kind of access types are in the ePolicy,epolicy_access_types
+What is the benefit of ePolicy,epolicy_benefit
+What is ePolicy Business Objectives,epolicy_business_Objectives
+contact epolicy member,epolicy_contact_members
+Who to contact the ePolicy members,epolicy_contact_members
+How is the contact of the policy management,epolicy_contact_policy_management
+contact policy management,epolicy_contact_policy_management
+How is the contact of the threat management,epolicy_contact_threat_management
+contact threat management,epolicy_contact_threat_management
+What is CSD,epolicy_CSD
+CSD briefly,epolicy_CSD_briefly
+What kind of document type had managed by epolicy,epolicy_document_type
+Where can I found education,epolicy_found_education
+What is  GSD331,epolicy_GSD331
+How can import threats to ePolicy,epolicy_imports_threats
+What is  IseC,epolicy_Isec
+need ePolicy technical specification,epolicy_need_technical_specification
+When do I need a tech spec,epolicy_need_technical_specification
+can you please tell me more about epolicy,epolicy_overview
+ePolicy overview,epolicy_overview
+what is policy management,epolicy_policy_management
+what is the policy management objective,epolicy_policy_management_Objective
+access epolicy japan,epolicy_reach_Aisa_and_MEA_Japan_GCG
+How can I reach to the epolicy Asia and MEA_Japan_GCG,epolicy_reach_Aisa_and_MEA_Japan_GCG
+access epolicy mea japan gcg,epolicy_reach_Aisa_and_MEA_Japan_GCG
+access epolicy mea,epolicy_reach_Aisa_and_MEA_Japan_GCG
+access epolicy asia,epolicy_reach_Aisa_and_MEA_Japan_GCG
+access epolicy ap,epolicy_reach_Aisa_and_MEA_Japan_GCG
+access epolicy eu,epolicy_reach_Europe
+access eu epolicy,epolicy_reach_Europe
+How can I reach to the epolicy Europe,epolicy_reach_Europe
+How can I reach to the epolicy North America,epolicy_reach_North_America
+access epolicy na,epolicy_reach_North_America
+access na epolicy,epolicy_reach_North_America
+How to open new epolicy  requirement,epolicy_requirement
+What is the technical specification,epolicy_technical_specification
+Technical specification contacts,epolicy_technical_specification_contacts
+I have found an existing tech spec in the directory of unsupported account level tech specs.. can I make an update or change to this tech spec,epolicy_update_or_change_technical_specification
+What are the types of access level available in GEM,GEM_access_level
+How to create_add_delete account in GEM Records,GEM_Account_Gem
+GEM contact,Gem_admins_gem_adminstrators
+How do I Contact GEM Administrators,Gem_admins_gem_adminstrators
+How to Archive a user who no longer needs access to GEM,GEM_Archive_GEM
+What is the role of Author access,GEM_Author_Access
+Any queries related to CBC record updation(Cross Border Checklist),GEM_CBC
+How to request for Dummy CDIR number,GEM_CDIR_GEM
+How to resolve the issue - Unable to access GEM Database due to network error,GEM_Connection_error
+How to correct error caused by incorrect date format,GEM_DateFormat_GEM
+What is the process for changing_adding_removing delegate of respective record,GEM_Delegate_Change
+Any queries related to DOU record updation(Cross Border Checklist),GEM_DOU
+What to do when you see the error OOPS! I think you are lost... If you aren't lost and need to see something Please contact Global GEM administrator,GEM_Error_gem_OOPS_Error
+Who are the focals for GEM_ARCH region wise,GEM_Focals_Gem
+Who are the Focals of GEM Regional wise,GEM_Focals_Gem
+What is GEM,GEM_GEM
+How to create_edit_delete group approvers in GEM,GEM_GroupApprovers_GEM
+What is the process for Ownership change of respective record,GEM_Ownership_Change
+What is the process to access the GEM Database,GEM_process_to_Access_Gem
+Who will be generating_Creating the Rated Services Report,GEM_Rated_Services
+What is the role of Read access,GEM_read_access
+What is the role of Read all access,GEM_Read_all_Access
+How to remove_Retire Record,GEM_RetireRecord_GEM
+How to solve Server locked out issue,GEM_ServerLock_GEM
+Issues related to Wiki updation,GEM_WikiUpdate_GEM
+see you,goodbye
+nice to talk to you,goodbye
+nice to meet you,goodbye
+cu,goodbye
+bye,goodbye
+get lost,goodbye
+greeting,greetings
+good afternoon,greetings
+good evening,greetings
+what's up?,greetings
+hey,greetings
+hi,greetings
+hello,greetings
+howdy,greetings
+what is input output to ECM,input_output_to_ecm
+who are you,intro
+what is your age,intro
+tell me your name,intro
+how old are you,intro
+how are you feeling,intro
+how are you,intro
+name,name
+what is your name,name
+what's your name,name
+whats your name,name
+Where  can I download the latest version of  Sterm,Sterm_download
+Whom to Contact for sterm End Point related issues.,Sterm_Endpoint_contact
+need sterm endpoint contact,Sterm_Endpoint_contact
+sterm contact,Sterm_Endpoint_contact
+What is the current endpoint (Linux server ) in order to use_test the sterm,Sterm_Endpoint_Test
+STerm for endpoint Windows Servers,Sterm_Endpoint_Windows
+How to install the sterm and where to find  the user_guide in order to use the tool,Sterm_How_Install
+Where to check the Sterm related issues and open tasks and enhancements,Sterm_Issues_Tickets_Enhancements
+what is PCE in Sterm,Sterm_PCE
+How to create a package for Sterm_PCE for both linux and windows,Sterm_PCE_Code_Build_and_Packing
+How to raise a ticket for Sterm code access,Sterm_PCE_Code_Repository
+What are the third party tools_libraries used in Sterm on Linux,Sterm_Third_party_libraries_used_in_Sterm_Linux
+What are the third party tools_libraries used in Sterm on windows,Sterm_Third_party_libraries_used_in_Sterm_windows
+What are the tools and Technologies used in Sterm_PCE,Sterm_Tools_Technologies
+What is sterm,Sterm_What
+I need information about sterm,Sterm_What
+Supported versions of AFS,UIDEXT_AFS
+How to check whether AIX RADIUS is installed or not,UIDEXT_AIX_RADIUS
+Which user can modify AIX RADIUS server configuration,UIDEXT_AIX_RADIUS_server_configuration
+Why Already exists error appears,UIDEXT_already_exists
+How to avoid problem of wrong checksum,UIDEXT_Avoid_wrong_checksum
+Benefits of UIDEXT,UIDEXT_Benefit
+what is _B parameter when it is used,UIDEXT__B_parameter
+How to check if checkpoint CSMS is installed or not,UIDEXT_Checkpoint_CSMS
+Where we can find users in checkpoint IPSO,UIDEXT_Checkpoint_IPSO
+Is checksum applicable to both unix and wintel extractors,UIDEXT_checksum_applicable
+Why check sum is wrong during the re-validation on URT and ECM,UIDEXT_Check_Sum_re-validation
+Citrix roles extracted,UIDEXT_Citrix_roles
+DB2 Roles extracted,UIDEXT_DB2_roles_extracted
+How to provide the output debug log file to support team,UIDEXT_debug_log
+how to start DMGR if it is stopped,UIDEXT_DMGR
+How to check if DMGR is running or not,UIDEXT_DMGR_is_running_or_not
+what is the output of dmpmqaut -m <queue manager name> command,UIDEXT_dmpmqaut_m_queue_manager_name__comman_MQ
+Why Lotus Domino UID extractor producing this NotesException: Can't switch IDs on a server,UIDEXT_Domino_Error
+Why following error is appearing: java.lang.OutOfMemoryError,UIDEXT_Domino_Error_java_lang_OutOfMemoryError
+How to collect the mef3 data from predefined list of Address Book(s),UIDEXT_Domino_Error_mef3_data_from_predefined_list
+Why following errors is appearing: You are not authorized to perform that operation,UIDEXT_Domino_Error_not_authorized_to_perform_that_operation
+Why following error is appearing by Lotus Domino UID extractor: NotesException: Password or other security violation for database <database> names.nsf,UIDEXT_Domino_Error_NotesException
+Why following error is appearing by Lotus Domino UID extractor: The remote server is not a known TCP_IP host. Session AddressBooks property hasn't any ABs,UIDEXT_Domino_Error_Session_AddressBooks_property_hasnot_any_ABs
+What is the output of dspmq command,UIDEXT_dspmq_MQ
+How we can find users are enabled or not for checkpoint IPSO,UIDEXT_enabled_Checkpoint_IPSO
+What are the error code  for subsystem extractors,UIDEXT_Error_Code_subsytem
+What are the error codes for wintel os,UIDEXT_Error_codes_Wintel
+Level 1 Error,UIDEXT_errors_reported_level_1
+Level 2 Error,UIDEXT_errors_reported_level_2
+Level 3 Error,UIDEXT_errors_reported_level_3
+Level 4 Error,UIDEXT_errors_reported_level_4
+Level 5 Error,UIDEXT_errors_reported_level_5
+Level 6 Error,UIDEXT_errors_reported_level_6
+What are the levels of errors reported,UIDEXT_errors_reported_Levels
+Supported versions of Exchange,UIDEXT_Exchange
+How many instances of Exchange supported,UIDEXT_Exchange
+How will extractor decide to process which queue manager,UIDEXT_extractor_decide_MQ
+Under which account the extractor should be executed,UIDEXT_Extractor_Executed
+Under which account the UID extractor should be executed,UIDEXT_Extractor_Execution
+Can these extractors executed automatically,UIDEXT_Extractor_Execution
+how extractor will find username in MQ,UIDEXT_extractor_username_MQ
+what is notarealid in mef3 file,UIDEXT_format_mef3
+What is the format of Mef3 file,UIDEXT_format_mef3
+What is the format of Mef4 file,UIDEXT_format_mef4
+WHAT is the full form of MQ,UIDEXT_Full_form_MQ
+GPI stands for,UIDEXT_GPI
+What is the use of -verify parameter in script,UIDEXT_GPI_Verify_Parameter
+How many subsystems are supported by UIDEXT,UIDEXT_How_Subsystem
+Privileges needed to run director extractor,UIDEXT_IBM_system_director
+Where do I find the complete information regarding the UIDEXT,UIDEXT_Information_Wiki_Overview
+Supported versions of Informix,UIDEXT_Informix
+How many instances of DB2 supported,UIDEXT_instances_DB2_supported
+What are the languages the extractor scripts is written in,UIDEXT_Language_Extractor
+What is the right format of the Last Logon field (mef3 #9 field),UIDEXT_Last_Logon_mef3_9_field
+What are logging levels used by UIDEXT,UIDEXT_logging_levels
+What is the output of lslpp l radius.base.rte,UIDEXT_lslpp_radius_base_rte_AIX_RADIUS
+How to open new Requirement,UIDEXT_new_requirement
+Why Error loading native library:libldapjclnt9.so. error is appearing,UIDEXT_OAS
+How does extrator take instance for oracle,UIDEXT_ORACLE
+Why ORA-01031: insufficient privileges error appeared for Oracle extractor,UIDEXT_ORACLE
+When using the _I:<server list> parameter,UIDEXT_parameter
+Privileges needed to run DB2 extractor,UIDEXT_Previleges_DB2
+Privileges needed to run citrix extractor,UIDEXT_Previleges_run_Citrix_extractor
+How to find different queue managers name in MQ,UIDEXT_queue_managers_MQ
+Roles of AFS extracted,UIDEXT_roles_of_AFS
+Roles of Informix extracted,UIDEXT_Roles_of_Informix
+How to run the UID script with labelling file� Which Sub Systems are supporting labelling file,UIDEXT_Run_UID_Script
+Areas covered by UIDEXT,UIDEXT_Scope
+How to run serverStatus.sh script,UIDEXT_serverstatus_script
+why does error SizeLimit appears while running extractor,UIDEXT_Sizelimit
+Why double re-validation is passing: ID's on OS level are selected for re-validation both when OS is re-validated AND when the Subsystem is re-validated,UIDEXT_subsystem_re-validation
+Supported formats of output,UIDEXT_supported_format
+What are the supported  wintel OS,UIDEXT_Supported_OS
+What are the supported unix OS,UIDEXT_Supported_OS
+Supported versions of Citrix,UIDEXT_Supported_Version_Citrix
+Supported versions of DB2,UIDEXT_Supportedversion_DB2
+why does Sybase script faile due to failing while getting connected to ASE through isql due to Adaptive Server requires encryption of the login password on the network error How to resolve it,UIDEXT_Sybase
+How to check temporary queue in MQ,UIDEXT_temporary_queue_MQ
+Do we extract user info for temporary queue in MQ,UIDEXT_temporary_queue_MQ
+Do we have test environment for UIDEXT,UIDEXT_Test_Environment
+what does error port connect is getting timed out means,UIDEXT_times_out
+The TSCM collector error: Login failed for user 'NT AUTHORITY\SYSTEM'. How to resolve,UIDEXT_TSM
+What are the different TSM version supported by TSM extractor,UIDEXT_TSM_different_version
+what are the different system generated TSM error,UIDEXT_TSM_error
+what are the different TSM roles present,UIDEXT_TSM_roles_present
+How we can find name of the TSM servers,UIDEXT_TSM_servers
+How we can find user that can modify AIX RADIUS server configuration,UIDEXT_User_AIX_RADIUS
+Tech team used interim fixed version - therefore validation Tool shows that is invalid version.,UIDEXT_validation_invalid
+How to resolve error as WASX7023E: Error creating SOAP connection to host localhost; exception information: com.ibm.websphere.management.exception.ConnectorNotAvailableException: [SOAPException: faultCode=SOAP-ENV:Client; msg=Unable to find a valid IP for host localhost] coming while executing WAS script.,UIDEXT_WAS
+The WAS script executed with return code 0 but nothing produced. Why,UIDEXT_WAS
+What does error ADMN0022E:Credential insufficient or balank  means in WAS,UIDEXT_WAS_ADMN0022E_Credential
+When does WAS script throws error as Cannot connect to profile,UIDEXT_WAS_Cannot_connect_to_profile
+what is uid extractor,UIDEXT_What
+uidext,UIDEXT_What
+uid,UIDEXT_What
+UIDEXT stands for,UIDEXT_What
+Why do we need UIDEXT,UIDEXT_Why
+Need for UIDEXT,UIDEXT_Why
+Why is Global Windows OS Extractor not starting execution,UIDEXT_Windows_OS_execution
+What are the prerequisites to run the wintel extractor,UIDEXT_wintel_os_Prerequisites
+Supported versions of wintel,UIDEXT_wintel_os_Version
+What is URT,URT
+architecture of urt,URT_About_urt_and_its_architecture
+What is the architecture of URT,URT_About_urt_and_its_architecture
+How is the Access to urt controlled,URT_Access_control
+How can I access to the URT Asia Pacific,URT_access_urt_Asia_Pacific
+access urt ap,URT_access_urt_Asia_Pacific
+How can I access to the URT Europe,URT_access_urt_Europe
+access urt eu,URT_access_urt_Europe
+access urt india,URT_access_urt_India
+How can I access to the URT India,URT_access_urt_India
+How can I access to the URT North America,URT_access_urt_North_America
+access urt na,URT_access_urt_North_America
+Which regions actively use srt,URT_Active_regions
+What information does ams report contain in urt,URT_AMS_Report
+I got an attachment from the URT tool it can be open,URT_attachment_URT_tool
+What are the actions available during CBN,URT_CBN_actions
+What is csv file,URT_csv
+Why I got CSV file,URT_CSV_file
+What information does csv report contain in urt,URT_CSV_report
+What is the cusrrent version of URT& fixpack,URT_Current_version_Fixpack
+What is Customer code in urt,URT_customer_code
+How can I board my customer to the URT,URT_Customer_to_URT
+Delegation,URT_Delegation
+What is the hosting environment of urt,URT_environment
+What are evindence in urt,URT_Evidences_history
+What is fixpack in urt,URT_Fixpack
+Formats supported by URT,URT_Format
+What is Group_Group code in urt,URT_Group_code
+How is the Transfer of  Data to URT,URT_GSA_Transfer
+I am a manager how can I reach the ID's which need to validate,URT_IDs_manager_validation
+I am a privilege owner how can I reach the ID's which need to validate,URT_IDs_privilege_validation
+What are Intermediate codes,URT_Intermediate_codes
+How can I create the intermediate code,URT_Intermediate_codes
+What is the intermediate code,URT_Intermediate_codes
+Where can I found the Intermediate codes list on Asia and Pacific region,URT_Intermediate_codes_Asia_pacific
+Where can I found the Intermediate codes list on Europe,URT_Intermediate_codes_Europe
+Where can I found the Intermediate codes list on India,URT_Intermediate_codes_India
+Where can I found the Intermediate codes list on North America,URT_Intermediate_codes_North_America
+Does urt provide report for audit purpose,URT_last_session_audit
+Can a manager ask another manager to revalidate his accounts,URT_Manager_delegation
+What is the MEF3,URT_MEF3
+How does the MEF3 file looks like,URT_MEF3_file_looke_like
+How to upload mef3 For URT AP,URT_mef3_for_URT_AP
+How to upload mef3 For URT EMEA,URT_mef3_for_URT_EMEA
+How to upload mef3 For URT NA,URT_mef3_for_URT_NA
+what is negative revalidation or type1,URT_Negative_revalidation
+Is the URT is connected to any other tool,URT_other_tool
+What is primary control function in urt,URT_primary_control_fucntion
+Who is a privilege owner and what are his_her duties,URT_Privilege_owner
+Your privilege has been removed. What should I do,URT_Privilege_removed
+What actions can be taken during privilege revalidation,URT_privilege_revalidation_actoins
+Where do I see answer to my doubts_FAQs,URT_questions_FAQs
+URT contact,URT_report_a_problem_in_urt_contacts
+Whom to contact for urt,URT_report_a_problem_in_urt_contacts
+Where to report a problem in urt,URT_report_a_problem_in_urt_contacts
+What format of reports does urt provide,URT_Reports
+access urt,URT_Request_access_to_urt
+How can I acces urt,URT_Request_access_to_urt
+What are the Revalidations in URT,URT_Revalidation
+What is the revalidation briefly,URT_Revalidation
+What are the categories of revalidatoin cycle,URT_revalidation_cycle
+What are the ways of urt revalidation,URT_Revalidation_ways
+What are the differences of Secondary control vs primary control in urt,URT_Secondary_control_vs_primary_control
+Who makes revalidation in urt,URT_Security_contact
+Where can found the security contact,URT_Security_contact
+Can I compare with  previous session in urt,URT_session_comparision
+How to create a snapshot of uploaded server in urt,URT_snapshot_of_uploaded_server
+What format of snapshots are supported by urt,URT_snapshots
+Does urt maintain_provide statistics,URT_Statistics
+Does urt support Task Ids,URT_Task_Id
+Who does upload data to the URT,URT_upload_data_urt
+How to upload mef3 For URT India,URT_Upload_mef3_URT_India
+What are the country codes in urt,URT_urt_country_codes
+What is the URT customer container,URT_URT_cutomer_container
+Links to URT wiki documentations,URT_URTdocumentation_links
+What are the functions of urt,URT_urt_functions
+What are the URT main functions,URT_urt_functions
+What are the urt instances,URT_Urt_instance
+Where did urt originate from_ history of URT,URT_urt_origin
+what is positive revalidation or type2,URT_URT_Positive_revalidation
+URT Security considerations,URT_URT_Security
+Does urt make any action on any target server,URT_urt_target_server_action
+What are the user types in urt,URT_URT_users
+What is userId Convention,URT_UserId_Convention
+What is lookup accounts in urt,URT_Userids_owner_lookup
+What standards does urt interfece follow,URT_user_interface_standards
+Does urt validate the incoming Snapshots(Mef files),URT_Validation_of_snapshots
+What is URT,URT_What_is_urt
+What is good for URT,what_is_good_for_urt

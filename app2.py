@@ -67,23 +67,24 @@ def post():
 			if name == 'goodbye' or name == 'courtesy' or name == 'greetings':
 				print('smalltalk')
 			else:
-				with open('static/doc/training_data2.csv', 'rb') as training_data:
-					#classifier = natural_language_classifier.create(training_data=training_data,name='compliancebot_training_data',language='en')
-					classifier = natural_language_classifier.list()
-					classifier = natural_language_classifier.classify('1c5f1ex204-nlc-39444',data)
-				#	print(json.dumps(classifier, indent=2))
-					i = 0
-					j = 0
-					#class_name = [None] * 3
-					while (j < 3):
-						class_name[j] = classifier['classes'][i]['class_name']
-						if class_name[j] == 'goodbye' or class_name[j] == 'emotions' or class_name[j] == 'courtesy' or class_name[j] == 'greetings' or class_name[j] == 'intro':
-							i = i + 1
-							continue
-						j = j + 1
+				#with open('static/doc/train.csv', 'rb') as training_data:
+				#	classifier = natural_language_classifier.create(training_data=training_data,name='compliancebot_training_data2',language='en')
+				#	classifier = natural_language_classifier.list()
+				#classifier = natural_language_classifier.status('359f41x201-nlc-204549')
+				classifier = natural_language_classifier.classify('359f41x201-nlc-204549',data)
+				print(json.dumps(classifier, indent=2))
+				i = 0
+				j = 0
+				#class_name = [None] * 3
+				while (j < 3):
+					class_name[j] = classifier['classes'][i]['class_name']
+					if class_name[j] == 'goodbye' or class_name[j] == 'emotions' or class_name[j] == 'courtesy' or class_name[j] == 'greetings' or class_name[j] == 'intro':
 						i = i + 1
-					class_name_flag=True
-					print(class_name)
+						continue
+					j = j + 1
+					i = i + 1
+				class_name_flag=True
+				print(class_name)
 	except:
 		print('intent not exist')
 		
