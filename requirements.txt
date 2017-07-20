@@ -9,4 +9,4 @@ numpy==1.12.0
 requests >=2.7.0, <3.0.0
 
 cookies == 2.2.1
-Python==3.6.0
+Python==3.6.2
