@@ -29,7 +29,7 @@ natural_language_classifier = NaturalLanguageClassifierV1(
 print("inside global application")
 
 #conv_workspace_id = '72e3ba4d-5ca3-4fa4-b696-4b790d55cf5d'
-conv_workspace_id = '5c2446b9-28a3-40f9-906e-b46350f494b3'
+conv_workspace_id = 'c0e7da75-b1f6-4dbd-bdee-5bc47fdc99e0'
 
 app = Flask(__name__, static_url_path='/static')
 app.secret_key = os.urandom(24)
