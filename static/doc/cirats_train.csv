@@ -1,0 +1,96 @@
+do action on cirats account,Cirats_account_actions
+what are the account action plans in cirats,Cirats_account_actions
+cirats account actions,Cirats_account_actions
+cirats account add,Cirats_account_add
+how can I add account in cirats,Cirats_account_add
+how can I delete account in cirats,Cirats_account_delete
+cirats account delete,Cirats_account_delete
+cirats account edit,Cirats_account_edit
+how can I edit account in cirats,Cirats_account_edit
+cirats account specific device type,Cirats_account_specific_device_type
+cirats adding action plan to NCI,Cirats_action_plan_Noncompliance_issue
+How can I add an action plan in cirats,Cirats_add_action_plan_record
+cirats adding platform and system type,Cirats_adding_platform
+how can I add platform in cirats,Cirats_adding_platform
+add technical contact to dept,Cirats_add_technical_contact_department
+How can I add technical contacts to my departments,Cirats_add_technical_contact_department
+how can I close NCI in cirats,Cirats_Close_Noncompliance_issue
+propose to close NCI,Cirats_Close_Noncompliance_issue
+close nci,Cirats_Close_Noncompliance_issue
+close record in cirats,Cirats_close_records
+How can I close a record in cirats,Cirats_close_records
+how can I close pa,Cirats_closing_PA
+closing PA,Cirats_closing_PA
+cirats contact details,cirats_contact
+Who are Key Contacts and IOT focals?,cirats_contact
+how can I create NCI in cirats,Cirats_Creating_Noncompliance_issue
+creating NCI,Cirats_Creating_Noncompliance_issue
+creating PA,Cirats_creating_PA
+how can I create pa in cirats,Cirats_creating_PA
+customer notification in cirats,Cirats_customer_notification
+what is customer notification in cirats,Cirats_customer_notification
+How can I set customer notification,Cirats_customer_notification_account_commercial
+set customer notification,Cirats_customer_notification_account_commercial
+how can I extend NCI,Cirats_date_extension_process
+extending NCI using date extension process,Cirats_date_extension_process
+delete dept in cirats,Cirats_delete_department
+How can I delete my department,Cirats_delete_department
+delete platform in cirats,Cirats_deleting_platform
+deleting platform and system type,Cirats_deleting_platform
+how can I delete platform in cirats,Cirats_deleting_platform
+department actions in cirats,Cirats_department_actions
+how can I add department in cirats,Cirats_department_add
+department add in cirats,Cirats_department_add
+how can I delete department in cirats,Cirats_department_delete
+department delete in cirats,Cirats_department_delete
+department edit in cirats,Cirats_department_edit
+how can I edit department in cirats,Cirats_department_edit
+got error message on department update in cirats,Cirats_department_id_division_code_update_bluepages
+Why do receive error message when department is updated,Cirats_department_id_division_code_update_bluepages
+device types in cirats,Cirats_device_type
+what are the device type in cirats,Cirats_device_type
+How can I change or modify device type in cirats,Cirats_device_type_account_DPE_disable_enable
+How can I edit my account document in cirats,Cirats_edit_account_document_DPE_delegate
+define ISeC for Medium and Low severity,Cirats_Isec
+cirats Isec,Cirats_Isec
+modify or disable device type in cirats,Cirats_modify_diable_device_type
+re open NCI in cirats,Cirats_Noncompliance_issue
+re-opening NCI in cirats,Cirats_Noncompliance_issue
+Non compliance issue actions in cirats,Cirats_Noncompliance_issue_actions
+Why dont I receive PA notifications from the tool,Cirats_notifications_supported_product_software_platform_type_patch_advisory
+How can I open an NCI record,Cirats_open_new_record
+How can I change the originator,Cirats_originator_record_role
+extension of PA using date extention process,Cirats_PA_date_extension_process
+extending PA using date extension process,Cirats_PA_date_extension_process
+marking PA as installed in cirats,Cirats_PA_installed
+how can I mark PA as installed,Cirats_PA_installed
+how can I mark PA as NA in cirats,Cirats_PA_NA
+marking PA as NA in cirats,Cirats_PA_NA
+extending PA using risk evaluation process,Cirats_PA_risk_evaluation_process
+extension of PA using risk evaluatuion process in cirats,Cirats_PA_risk_evaluation_process
+cirats PA actions,Cirats_Patch_advisory
+Patch advisory actions in cirats,Cirats_Patch_advisory
+How can I close a patch advisory as not- applicable,Cirats_patch_advisory_not_applicable
+close PA in cirats,Cirats_patch_advisory_not_applicable
+tell me about platforms in cirats,Cirats_platform
+cirats platform,Cirats_platform
+Why cant I see the records in cirats,Cirats_record_role_access_user_view
+not able to see records in cirats,Cirats_record_role_access_user_view
+records not visible in cirats,Cirats_record_role_access_user_view
+open closed records in cirats,Cirats_reopen_closed_records
+How can I reopen my closed records in cirats,Cirats_reopen_closed_records
+re open PA in cirats,Cirats_re_opening_PA
+how can I reopen PA,Cirats_re_opening_PA
+re-opening PA in cirats,Cirats_re_opening_PA
+extending NCI using risk evaluation process,Cirats_risk_evaluation_process
+Where can I find supported softwares in cirats,Cirats_supported_software_patch_advisory
+How can I transfer records from one department to another in cirats,Cirats_transfer_records
+transferring NCI in cirats,Cirats_transferring_Noncompliance_issue
+transferring PA in cirats,Cirats_transferring_PA
+How can I validate my department in cirats,Cirats_validate_department_account
+validate dept in cirats,Cirats_validate_department_account
+what cirats do,cirats_what_cirats
+what is cirats,cirats_what_cirats
+can you tell me about cirats,cirats_what_cirats
+tell me more about cirats,cirats_wiki
+cirats wiki link,cirats_wiki

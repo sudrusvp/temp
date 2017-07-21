@@ -1,0 +1,101 @@
+Supported versions of AFS,UIDEXT_AFS
+How to check whether AIX RADIUS is installed or not,UIDEXT_AIX_RADIUS
+Which user can modify AIX RADIUS server configuration,UIDEXT_AIX_RADIUS_server_configuration
+Why Already exists error appears,UIDEXT_already_exists
+How to avoid problem of wrong checksum,UIDEXT_Avoid_wrong_checksum
+Benefits of UIDEXT,UIDEXT_Benefit
+what is _B parameter when it is used,UIDEXT__B_parameter
+How to check if checkpoint CSMS is installed or not,UIDEXT_Checkpoint_CSMS
+Where we can find users in checkpoint IPSO,UIDEXT_Checkpoint_IPSO
+Is checksum applicable to both unix and wintel extractors,UIDEXT_checksum_applicable
+Why check sum is wrong during the re-validation on URT and ECM,UIDEXT_Check_Sum_re-validation
+Citrix roles extracted,UIDEXT_Citrix_roles
+DB2 Roles extracted,UIDEXT_DB2_roles_extracted
+How to provide the output debug log file to support team,UIDEXT_debug_log
+how to start DMGR if it is stopped,UIDEXT_DMGR
+How to check if DMGR is running or not,UIDEXT_DMGR_is_running_or_not
+what is the output of dmpmqaut -m <queue manager name> command,UIDEXT_dmpmqaut_m_queue_manager_name__comman_MQ
+Why Lotus Domino UID extractor producing this NotesException: Can't switch IDs on a server,UIDEXT_Domino_Error
+Why following error is appearing: java.lang.OutOfMemoryError,UIDEXT_Domino_Error_java_lang_OutOfMemoryError
+How to collect the mef3 data from predefined list of Address Book(s),UIDEXT_Domino_Error_mef3_data_from_predefined_list
+Why following errors is appearing: You are not authorized to perform that operation,UIDEXT_Domino_Error_not_authorized_to_perform_that_operation
+Why following error is appearing by Lotus Domino UID extractor: NotesException: Password or other security violation for database <database> names.nsf,UIDEXT_Domino_Error_NotesException
+Why following error is appearing by Lotus Domino UID extractor: The remote server is not a known TCP_IP host. Session AddressBooks property hasn't any ABs,UIDEXT_Domino_Error_Session_AddressBooks_property_hasnot_any_ABs
+What is the output of dspmq command,UIDEXT_dspmq_MQ
+How we can find users are enabled or not for checkpoint IPSO,UIDEXT_enabled_Checkpoint_IPSO
+What are the error code  for subsystem extractors,UIDEXT_Error_Code_subsytem
+What are the error codes for wintel os,UIDEXT_Error_codes_Wintel
+Level 1 Error,UIDEXT_errors_reported_level_1
+Level 2 Error,UIDEXT_errors_reported_level_2
+Level 3 Error,UIDEXT_errors_reported_level_3
+Level 4 Error,UIDEXT_errors_reported_level_4
+Level 5 Error,UIDEXT_errors_reported_level_5
+Level 6 Error,UIDEXT_errors_reported_level_6
+What are the levels of errors reported,UIDEXT_errors_reported_Levels
+Supported versions of Exchange,UIDEXT_Exchange
+How many instances of Exchange supported,UIDEXT_Exchange
+How will extractor decide to process which queue manager,UIDEXT_extractor_decide_MQ
+Under which account the extractor should be executed,UIDEXT_Extractor_Executed
+Under which account the UID extractor should be executed,UIDEXT_Extractor_Execution
+Can these extractors executed automatically,UIDEXT_Extractor_Execution
+how extractor will find username in MQ,UIDEXT_extractor_username_MQ
+what is notarealid in mef3 file,UIDEXT_format_mef3
+What is the format of Mef3 file,UIDEXT_format_mef3
+What is the format of Mef4 file,UIDEXT_format_mef4
+WHAT is the full form of MQ,UIDEXT_Full_form_MQ
+GPI stands for,UIDEXT_GPI
+What is the use of -verify parameter in script,UIDEXT_GPI_Verify_Parameter
+How many subsystems are supported by UIDEXT,UIDEXT_How_Subsystem
+Privileges needed to run director extractor,UIDEXT_IBM_system_director
+Where do I find the complete information regarding the UIDEXT,UIDEXT_Information_Wiki_Overview
+Supported versions of Informix,UIDEXT_Informix
+How many instances of DB2 supported,UIDEXT_instances_DB2_supported
+What are the languages the extractor scripts is written in,UIDEXT_Language_Extractor
+What is the right format of the Last Logon field (mef3 #9 field),UIDEXT_Last_Logon_mef3_9_field
+What are logging levels used by UIDEXT,UIDEXT_logging_levels
+What is the output of lslpp l radius.base.rte,UIDEXT_lslpp_radius_base_rte_AIX_RADIUS
+How to open new Requirement,UIDEXT_new_requirement
+Why Error loading native library:libldapjclnt9.so. error is appearing,UIDEXT_OAS
+How does extrator take instance for oracle,UIDEXT_ORACLE
+Why ORA-01031: insufficient privileges error appeared for Oracle extractor,UIDEXT_ORACLE
+When using the _I:<server list> parameter,UIDEXT_parameter
+Privileges needed to run DB2 extractor,UIDEXT_Previleges_DB2
+Privileges needed to run citrix extractor,UIDEXT_Previleges_run_Citrix_extractor
+How to find different queue managers name in MQ,UIDEXT_queue_managers_MQ
+Roles of AFS extracted,UIDEXT_roles_of_AFS
+Roles of Informix extracted,UIDEXT_Roles_of_Informix
+How to run the UID script with labelling file??? Which Sub Systems are supporting labelling file,UIDEXT_Run_UID_Script
+Areas covered by UIDEXT,UIDEXT_Scope
+How to run serverStatus.sh script,UIDEXT_serverstatus_script
+why does error SizeLimit appears while running extractor,UIDEXT_Sizelimit
+Why double re-validation is passing: ID's on OS level are selected for re-validation both when OS is re-validated AND when the Subsystem is re-validated,UIDEXT_subsystem_re-validation
+Supported formats of output,UIDEXT_supported_format
+What are the supported  wintel OS,UIDEXT_Supported_OS
+What are the supported unix OS,UIDEXT_Supported_OS
+Supported versions of Citrix,UIDEXT_Supported_Version_Citrix
+Supported versions of DB2,UIDEXT_Supportedversion_DB2
+why does Sybase script faile due to failing while getting connected to ASE through isql due to Adaptive Server requires encryption of the login password on the network error How to resolve it,UIDEXT_Sybase
+How to check temporary queue in MQ,UIDEXT_temporary_queue_MQ
+Do we extract user info for temporary queue in MQ,UIDEXT_temporary_queue_MQ
+Do we have test environment for UIDEXT,UIDEXT_Test_Environment
+what does error port connect is getting timed out means,UIDEXT_times_out
+The TSCM collector error: Login failed for user 'NT AUTHORITY\SYSTEM'. How to resolve,UIDEXT_TSM
+What are the different TSM version supported by TSM extractor,UIDEXT_TSM_different_version
+what are the different system generated TSM error,UIDEXT_TSM_error
+what are the different TSM roles present,UIDEXT_TSM_roles_present
+How we can find name of the TSM servers,UIDEXT_TSM_servers
+How we can find user that can modify AIX RADIUS server configuration,UIDEXT_User_AIX_RADIUS
+Tech team used interim fixed version - therefore validation Tool shows that is invalid version.,UIDEXT_validation_invalid
+How to resolve error as WASX7023E: Error creating SOAP connection to host localhost; exception information: com.ibm.websphere.management.exception.ConnectorNotAvailableException: [SOAPException: faultCode=SOAP-ENV:Client; msg=Unable to find a valid IP for host localhost] coming while executing WAS script.,UIDEXT_WAS
+The WAS script executed with return code 0 but nothing produced. Why,UIDEXT_WAS
+What does error ADMN0022E:Credential insufficient or balank  means in WAS,UIDEXT_WAS_ADMN0022E_Credential
+When does WAS script throws error as Cannot connect to profile,UIDEXT_WAS_Cannot_connect_to_profile
+what is uid extractor,UIDEXT_What
+uidext,UIDEXT_What
+uid,UIDEXT_What
+UIDEXT stands for,UIDEXT_What
+Why do we need UIDEXT,UIDEXT_Why
+Need for UIDEXT,UIDEXT_Why
+Why is Global Windows OS Extractor not starting execution,UIDEXT_Windows_OS_execution
+What are the prerequisites to run the wintel extractor,UIDEXT_wintel_os_Prerequisites
+Supported versions of wintel,UIDEXT_wintel_os_Version

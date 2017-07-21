@@ -60,18 +60,45 @@ def post():
 	
 	
 	response = conversation.message(workspace_id = conv_workspace_id, message_input={'text' : data },context = context)
-	#print("***********"+json.dumps(response,indent=2)+"***************")
+	print("***********"+json.dumps(response,indent=2)+"***************")
+	try:
+		context1=response['context']['context1']
+	except:
+		print('context1 not there')
+	""""cirats=1c5f1ex204-nlc-48450
+	gem=359f41x201-nlc-207042
+	uid=359f41x201-nlc-207041
+	cwp=359f41x201-nlc-206908
+	ecm=359f41x201-nlc-206907
+	urt=1c5f1ex204-nlc-48304
+	sterm=359f41x201-nlc-207081"""
+	
 	try:
 		if response['intents'][0]['intent']:
 			name = response['intents'][0]['intent']
 			if name == 'goodbye' or name == 'courtesy' or name == 'greetings':
 				print('smalltalk')
 			else:
-				#with open('static/doc/train.csv', 'rb') as training_data:
-				#	classifier = natural_language_classifier.create(training_data=training_data,name='compliancebot_training_data2',language='en')
-				#	classifier = natural_language_classifier.list()
-				#classifier = natural_language_classifier.status('359f41x201-nlc-204549')
-				classifier = natural_language_classifier.classify('359f41x201-nlc-204549',data)
+				if context1=='ecm_context_value':
+					classifier = natural_language_classifier.classify('359f41x201-nlc-206907',data)
+				
+				if context1=='gem_context_value':
+					classifier = natural_language_classifier.classify('359f41x201-nlc-207042',data)
+				
+				if context1=='urt_context_value':
+					classifier = natural_language_classifier.classify('1c5f1ex204-nlc-48304',data)
+					
+				if context1=='uid_context_value':
+					classifier = natural_language_classifier.classify('359f41x201-nlc-207041',data)
+					
+				if context1=='sterm_context_value':
+					classifier = natural_language_classifier.classify('359f41x201-nlc-207081',data)
+					
+				if context1=='cirats_context_value':
+					classifier = natural_language_classifier.classify('359f41x201-nlc-206907',data)
+					
+				if context1=='cwp_context_value':
+					classifier = natural_language_classifier.classify('359f41x201-nlc-206908',data)
 				print(json.dumps(classifier, indent=2))
 				i = 0
 				j = 0
@@ -107,6 +134,7 @@ def post():
 			<body><html>""".format(query1=example_list[0],query2=example_list[1],query3=example_list[2])
 	else:
 		print('classnameflag false')
+
 	
 	if 'context' in session:
 		session['context'] = json.dumps(response['context'])
