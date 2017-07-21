@@ -88,7 +88,7 @@ def post():
 				if context1=='urt_context_value':
 					classifier = natural_language_classifier.classify('1c5f1ex204-nlc-48304',data)
 					
-				if context1=='uid_context_value':
+				if context1=='uidext_context_value':
 					classifier = natural_language_classifier.classify('359f41x201-nlc-207041',data)
 					
 				if context1=='sterm_context_value':
