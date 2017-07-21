@@ -12,8 +12,8 @@ from watson_developer_cloud import ConversationV1
 from os.path import join, dirname
 from flask import Flask
 from watson_developer_cloud import NaturalLanguageClassifierV1
-import pysolr
-from watson_developer_cloud import RetrieveAndRankV1
+#import pysolr
+#from watson_developer_cloud import RetrieveAndRankV1
 
 	
 conversation = ConversationV1(
@@ -76,7 +76,7 @@ def post():
 	try:
 		if response['intents'][0]['intent']:
 			name = response['intents'][0]['intent']
-			if name == 'goodbye' or name == 'courtesy' or name == 'greetings':
+			if name == 'goodbye' or name == 'courtesy' or name == 'greetings' or name=='intro' or name=='goodbye':
 				print('smalltalk')
 			else:
 				if context1=='ecm_context_value':
@@ -99,6 +99,9 @@ def post():
 					
 				if context1=='cwp_context_value':
 					classifier = natural_language_classifier.classify('359f41x201-nlc-206908',data)
+					
+				if context1=='epolicy_context_value':
+					classifier = natural_language_classifier.classify('359f3fx202-nlc-207298',data)
 				print(json.dumps(classifier, indent=2))
 				i = 0
 				j = 0
