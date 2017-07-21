@@ -95,7 +95,7 @@ def post():
 					classifier = natural_language_classifier.classify('359f41x201-nlc-207081',data)
 					
 				if context1=='cirats_context_value':
-					classifier = natural_language_classifier.classify('359f41x201-nlc-206907',data)
+					classifier = natural_language_classifier.classify('1c5f1ex204-nlc-48450',data)
 					
 				if context1=='cwp_context_value':
 					classifier = natural_language_classifier.classify('359f41x201-nlc-206908',data)
