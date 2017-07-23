@@ -1,89 +1,91 @@
-What is URT,URT
-architecture of urt,URT_About_urt_and_its_architecture
-What is the architecture of URT,URT_About_urt_and_its_architecture
-How is the Access to urt controlled,URT_Access_control
-How can I access to the URT Asia Pacific,URT_access_urt_Asia_Pacific
-access urt ap,URT_access_urt_Asia_Pacific
-How can I access to the URT Europe,URT_access_urt_Europe
-access urt eu,URT_access_urt_Europe
-access urt india,URT_access_urt_India
-How can I access to the URT India,URT_access_urt_India
-How can I access to the URT North America,URT_access_urt_North_America
-access urt na,URT_access_urt_North_America
-Which regions actively use srt,URT_Active_regions
-What information does ams report contain in urt,URT_AMS_Report
-I got an attachment from the URT tool it can be open,URT_attachment_URT_tool
-What are the actions available during CBN,URT_CBN_actions
-What is csv file,URT_csv
-Why I got CSV file,URT_CSV_file
-What information does csv report contain in urt,URT_CSV_report
-What is the cusrrent version of URT& fixpack,URT_Current_version_Fixpack
-What is Customer code in urt,URT_customer_code
-How can I board my customer to the URT,URT_Customer_to_URT
-Delegation,URT_Delegation
-What is the hosting environment of urt,URT_environment
-What are evindence in urt,URT_Evidences_history
-What is fixpack in urt,URT_Fixpack
-Formats supported by URT,URT_Format
-What is Group_Group code in urt,URT_Group_code
-How is the Transfer of  Data to URT,URT_GSA_Transfer
-I am a manager how can I reach the ID's which need to validate,URT_IDs_manager_validation
-I am a privilege owner how can I reach the ID's which need to validate,URT_IDs_privilege_validation
-What are Intermediate codes,URT_Intermediate_codes
-How can I create the intermediate code,URT_Intermediate_codes
-What is the intermediate code,URT_Intermediate_codes
-Where can I found the Intermediate codes list on Asia and Pacific region,URT_Intermediate_codes_Asia_pacific
-Where can I found the Intermediate codes list on Europe,URT_Intermediate_codes_Europe
-Where can I found the Intermediate codes list on India,URT_Intermediate_codes_India
-Where can I found the Intermediate codes list on North America,URT_Intermediate_codes_North_America
-Does urt provide report for audit purpose,URT_last_session_audit
-Can a manager ask another manager to revalidate his accounts,URT_Manager_delegation
-What is the MEF3,URT_MEF3
-How does the MEF3 file looks like,URT_MEF3_file_looke_like
-How to upload mef3 For URT AP,URT_mef3_for_URT_AP
-How to upload mef3 For URT EMEA,URT_mef3_for_URT_EMEA
-How to upload mef3 For URT NA,URT_mef3_for_URT_NA
-what is negative revalidation or type1,URT_Negative_revalidation
-Is the URT is connected to any other tool,URT_other_tool
-What is primary control function in urt,URT_primary_control_fucntion
-Who is a privilege owner and what are his_her duties,URT_Privilege_owner
-Your privilege has been removed. What should I do,URT_Privilege_removed
-What actions can be taken during privilege revalidation,URT_privilege_revalidation_actoins
-Where do I see answer to my doubts_FAQs,URT_questions_FAQs
-URT contact,URT_report_a_problem_in_urt_contacts
-Whom to contact for urt,URT_report_a_problem_in_urt_contacts
-Where to report a problem in urt,URT_report_a_problem_in_urt_contacts
-What format of reports does urt provide,URT_Reports
-access urt,URT_Request_access_to_urt
-How can I acces urt,URT_Request_access_to_urt
-What are the Revalidations in URT,URT_Revalidation
-What is the revalidation briefly,URT_Revalidation
-What are the categories of revalidatoin cycle,URT_revalidation_cycle
-What are the ways of urt revalidation,URT_Revalidation_ways
-What are the differences of Secondary control vs primary control in urt,URT_Secondary_control_vs_primary_control
-Who makes revalidation in urt,URT_Security_contact
-Where can found the security contact,URT_Security_contact
-Can I compare with  previous session in urt,URT_session_comparision
-How to create a snapshot of uploaded server in urt,URT_snapshot_of_uploaded_server
-What format of snapshots are supported by urt,URT_snapshots
-Does urt maintain_provide statistics,URT_Statistics
-Does urt support Task Ids,URT_Task_Id
-Who does upload data to the URT,URT_upload_data_urt
-How to upload mef3 For URT India,URT_Upload_mef3_URT_India
-What are the country codes in urt,URT_urt_country_codes
-What is the URT customer container,URT_URT_cutomer_container
-Links to URT wiki documentations,URT_URTdocumentation_links
-What are the functions of urt,URT_urt_functions
-What are the URT main functions,URT_urt_functions
-What are the urt instances,URT_Urt_instance
-Where did urt originate from_ history of URT,URT_urt_origin
-what is positive revalidation or type2,URT_URT_Positive_revalidation
-URT Security considerations,URT_URT_Security
-Does urt make any action on any target server,URT_urt_target_server_action
-What are the user types in urt,URT_URT_users
-What is userId Convention,URT_UserId_Convention
-What is lookup accounts in urt,URT_Userids_owner_lookup
-What standards does urt interfece follow,URT_user_interface_standards
-Does urt validate the incoming Snapshots(Mef files),URT_Validation_of_snapshots
-What is URT,URT_What_is_urt
-What is good for URT,what_is_good_for_urt
+How is the Access to URT controlled,URT_Access
+How can I Acces URT,URT_Access
+Why do I see  Not Authorized when  Logging to URT,URT_Access
+What are the Actions available during CBN in URT,URT_Actions
+What actions can be taken during Privilege Revalidation in URT,URT_Actions
+How can I understand Architecture of URT,URT_Architecture
+Does URT provide Report for Audit purpose,URT_Audit
+Whom to report a problem in urt,URT_Contact
+What are the country codes in urt,URT_Country_Codes
+Why did URT send me a CSV file,URT_CSV_File
+What is the Current Version  and  Fixpack of URT,URT_Current_Version_Fixpack
+What is Customer Code in URT,URT_Customer
+How to On  and  Off Board Customer to URT,URT_Customer
+How is Data Transferred toURT,URT_Data
+How to see Current Session Data in URT,URT_Data
+Who Uploads Data to the URT,URT_Data
+Can a Manager ask another manager to Revalidate his accounts,URT_Delegation
+What is the procedure to make a Delegation,URT_Delegation
+Where to find URT Documentations,URT_Documentation
+Is the URT is connected to any other tool,URT_ECM
+When will the data reflect in ECM,URT_ECM
+How can I stop the data sending to ECM,URT_ECM
+Why cant I see the data in ECM What shall I do,URT_ECM
+What can I do if I revalidated the server under wrong ECM Customer ID,URT_ECM
+Why doesnt the privilege revalidations reflect in ECM,URT_ECM
+How can I Fix if privilege revalidations are done but they dont reflect in ECM,URT_ECM
+How is the Hosting Environment of urt,URT_Environment
+What are Evidences in URT,URT_Evidences_History
+What is a Fixpack in URT,URT_Fixpack
+What are the functions of URT,URT_Functions
+What is Group or Group code in URT,URT_Group_Code
+What are the instances of URT,URT_Instance
+Which Regions actively use URT,URT_Instance
+Where to login URT Europe instance,URT_Instance
+How can I access to the URT North America,URT_access
+How can I access to the URT Asia Pacific,URT_access
+How can I access to the URT India,URT_access
+What standards does URT interface comply,URT_Interface
+What are Intermediate codes in URT,URT_Intermediate_Codes
+How can I create the intermediate code,URT_Intermediate_Codes
+Where can I found the Intermediate codes list for Europe,URT_Intermediate_Codes
+Where can I found the Intermediate codes list on Asia and Pacific region,URT_Intermediate_Codes
+Where can I found the Intermediate codes list on India,URT_Intermediate_Codes
+How can I board my customer to the URT,URT_OnBoard
+Where did URT originate or evolve  from,URT_Origin
+What is Primary Control Function in URT,URT_Primary_Control
+Who is a Privilege Owner ,URT_Privilege
+Privilege Owner what is his or her duties,URT_Privilege
+What should I do if I receive a mail saying Your privileges have been removed,URT_Privilege
+How can I  add custom privileges to the container,URT_Privilege
+What is the difference between the privilege User and the privilege Group,URT_Privilege
+How can I set privilege owners,URT_Privilege
+Is there a file which I can upload custom privileges,URT_Privilege
+Is there a file which I can upload privilege owners,URT_Privilege
+Where do I see answer to my doubts or FAQs,URT_Questions_FAQs
+What are the Revalidations performed in URT,URT_Revalidation
+Who makes Revalidation in urt,URT_Revalidation
+What is Negative Revalidation or type1,URT_Revalidation
+what is positive Revalidation or type2,URT_Revalidation
+What are the ways of Revalidation in URT,URT_Revalidation
+What are the Categories of Revalidatoin Cycle in URT,URT_Revalidation
+Where can I found the Security Contact,URT_Revalidation
+What is CSV Revalidation and CSV File,URT_Revalidation
+What is the Purpose of doing Revalidations  in URT,URT_Revalidation
+How can a Manager or Privilege Owner reach the IDs that they need to Revalidate,URT_Revalidation
+Why my manager received a non_compliant notification,URT_Revalidation
+I received a Notification mail or  but the URT page doesnot show any IDs to Revalidate,URT_Revalidation
+I missed the Revalidation How can I solve this,URT_Revalidation
+What format of Reports does URT provide,URT_Reports
+What information does CSV Report contain in URT,URT_Reports
+What information does AMS report contain in URT,URT_Reports
+What are the differences of Secondary control vs primary control in URT,URT_Secondary_vs_Primary_Control
+What are the Security considerations of URT,URT_Security
+Can I compare with  previous session in URT,URT_Session_Comparision
+What format of Snapshots are supported by urt,URT_Snapshots_Mef
+Does URT Validate the incoming Snapshots(Mef files),URT_Snapshot_Mef
+How to create a snapshot of uploaded server in URT,URT_Snapshots_Mef
+What is MEF3 in URT,URT_Snapshot_Mef
+How to upload mef3 for URT EMEA,URT_Snapshot_Mef
+How to upload mef3 for URT NA,URT_Snapshot_Mef
+How to upload mef3 for URT AP,URT_Snapshot_Mef
+How to upload mef3 for URT India,URT_Snapshot_Mef
+Does URT maintain and provide statistics,URT_Statistics
+Does URT support Task Ids,URT_TaskID
+Does URT make any action on any target server,URT_Target_Server
+Why mef3 files from the extractor server is not uploaded  to URT,URT_TSCM
+What are the user types in URT,URT_Users
+What is UserID Convention,URT_UserID
+What is Lookup Accounts in URT,URT_UserID
+What is URT,URT_What
+Why is URT built,URT_Why
