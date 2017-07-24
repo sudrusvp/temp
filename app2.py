@@ -128,26 +128,29 @@ def post():
 				print(class_name)
 	except:
 		print('intent not exist')
-		
-	if class_name_flag:
-		example_list = [None] * 3
-		i = 0
-		while (i < 3):
-			examples = conversation.list_examples(workspace_id = conv_workspace_id,intent = str(class_name[i]),page_limit=None, include_count=None, sort=None, cursor=None)
-			example_list[i] = examples['examples'][0]['text']
-			i = i +1
-			print(example_list)
-			
-			script10 = """<html><hr><body>
-			<strong>Corresponding queries:</strong><br>
-			<ul>
-			<li>{query1}</li>
-			<li>{query2}</li>
-			<li>{query3}</li>
-			</ul>
-			<body><html>""".format(query1=example_list[0],query2=example_list[1],query3=example_list[2])
-	else:
-		print('classnameflag false')
+	
+	try:
+		if class_name_flag:
+			example_list = [None] * 3
+			i = 0
+			while (i < 3):
+				examples = conversation.list_examples(workspace_id = conv_workspace_id,intent = class_name[i])
+				example_list[i] = examples['examples'][0]['text']
+				i = i +1
+				print(example_list)
+				
+				script10 = """<html><hr><body>
+				<strong>Corresponding queries:</strong><br>
+				<ul>
+				<li>{query1}</li>
+				<li>{query2}</li>
+				<li>{query3}</li>
+				</ul>
+				<body><html>""".format(query1=example_list[0],query2=example_list[1],query3=example_list[2])
+		else:
+			print('classnameflag false')
+	except:
+		print("in except")
 	
 	if 'context' in session:
 		session['context'] = json.dumps(response['context'])
