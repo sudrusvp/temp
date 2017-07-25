@@ -100,28 +100,28 @@ def post():
 			if name == 'goodbye' or name == 'courtesy' or name == 'greetings' or name=='intro' or name=='goodbye':
 				print('smalltalk')
 			else:
-				if context1=='ecm_context_value':
+				if current_context=='ecm_context_value':
 					classifier = natural_language_classifier.classify('359f41x201-nlc-225705',data)
-				
-				""""if context1=='gem_context_value':
+					
+				""""if current_context=='gem_context_value':
 					classifier = natural_language_classifier.classify('359f41x201-nlc-207042',data)"""
 				
-				if context1=='urt_context_value':
+				if current_context=='urt_context_value':
 					classifier = natural_language_classifier.classify('359f41x201-nlc-225702',data)
 					
-				if context1=='uidext_context_value':
+				if current_context=='uidext_context_value':
 					classifier = natural_language_classifier.classify('359f41x201-nlc-225701',data)
 					
-				if context1=='sterm_context_value':
+				if current_context=='sterm_context_value':
 					classifier = natural_language_classifier.classify('359f41x201-nlc-225706',data)
 					
-				if context1=='cirats_context_value':
+				if current_context=='cirats_context_value':
 					classifier = natural_language_classifier.classify('359f3fx202-nlc-225410',data)
-					
-				if context1=='cwp_context_value':
+						
+				if current_context=='cwp_context_value':
 					classifier = natural_language_classifier.classify('359f3fx202-nlc-225408',data)
 					
-				if context1=='epolicy_context_value':
+				if current_context=='epolicy_context_value':
 					classifier = natural_language_classifier.classify('1c5f1ex204-nlc-68345',data)
 				print(json.dumps(classifier, indent=2))
 				i = 0
