@@ -146,6 +146,7 @@ def post():
 			while (i < 3):
 				examples = conversation.list_examples(workspace_id = conv_workspace_id,intent = str(class_name[i]),page_limit=None, include_count=None, sort=None, cursor=None)
 				example_list[i] = examples['examples'][0]['text']
+				example_list[i] = example_list[i].capitalize()
 				i = i +1
 				print(example_list)
 				
