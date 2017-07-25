@@ -89,7 +89,11 @@ def post():
 	
 	response = conversation.message(workspace_id = conv_workspace_id, message_input={'text' : data },context = context)
 	print("***********"+json.dumps(response,indent=2)+"***************")
-
+	
+	try:
+		current_context=response['context']['current_context']
+	except:
+		print('current_context not there')
 	try:
 		if response['intents'][0]['intent']:
 			name = response['intents'][0]['intent']
@@ -97,28 +101,28 @@ def post():
 				print('smalltalk')
 			else:
 				if context1=='ecm_context_value':
-					classifier = natural_language_classifier.classify('359f41x201-nlc-216417',data)
+					classifier = natural_language_classifier.classify('359f41x201-nlc-225705',data)
 				
 				""""if context1=='gem_context_value':
 					classifier = natural_language_classifier.classify('359f41x201-nlc-207042',data)"""
 				
 				if context1=='urt_context_value':
-					classifier = natural_language_classifier.classify('1c5f1ex204-nlc-58503',data)
+					classifier = natural_language_classifier.classify('359f41x201-nlc-225702',data)
 					
 				if context1=='uidext_context_value':
-					classifier = natural_language_classifier.classify('359f41x201-nlc-207041',data)
+					classifier = natural_language_classifier.classify('359f41x201-nlc-225701',data)
 					
 				if context1=='sterm_context_value':
-					classifier = natural_language_classifier.classify('359f41x201-nlc-207081',data)
+					classifier = natural_language_classifier.classify('359f41x201-nlc-225706',data)
 					
 				if context1=='cirats_context_value':
-					classifier = natural_language_classifier.classify('359f41x201-nlc-216419',data)
+					classifier = natural_language_classifier.classify('359f3fx202-nlc-225410',data)
 					
 				if context1=='cwp_context_value':
-					classifier = natural_language_classifier.classify('1c5f1ex204-nlc-58496',data)
+					classifier = natural_language_classifier.classify('359f3fx202-nlc-225408',data)
 					
 				if context1=='epolicy_context_value':
-					classifier = natural_language_classifier.classify('359f3fx202-nlc-207298',data)
+					classifier = natural_language_classifier.classify('1c5f1ex204-nlc-68345',data)
 				print(json.dumps(classifier, indent=2))
 				i = 0
 				j = 0
