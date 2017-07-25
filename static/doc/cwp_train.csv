@@ -1,27 +1,18 @@
 What is CWP,CWP
-what is PHI,PHI
-what is Domain,Domain
-what is Sub_Domain,Sub_Domain
-what is Reporting Group,Reporting_Group
-what is DEO,DEO
-what is DEF,DEF
-What is DPE,DPE
-Where can I find the list of PHI questions for each Sub_domain,CWP_PHI_questions
-CWP RAG Rating Methodology,RAG
 how can I get access to CWP,CWP_access_cwp
-how can I access EU CWP,CWP_access_cwp_eu
-how can I access AP CWP,CWP_access_cwp_ap
-how can I access AG CWP,CWP_access_cwp_ag
-how can I access JP CWP,CWP_access_cwp_jp
-What is the status of my access request,CWP_status_access
-what is the target date of Rollover ,CWP_targetdate
+access cwp,CWP_access_cwp
+"As a DEO or DEF, I do not see my account listed in CWP",CWP_account_listed_dataentry
+Any cognos related question or suggestion,CWP_cognos
+Who can I contact for help on CWP,CWP_contact
+How can I reach CWP for help,CWP_contact
+cwp contact,CWP_contact
+contact for cwp,CWP_contact
 How can I Create or Delete or Modify an account,CWP_create_delete_modify_an_account
-As a DEO or DEF  or  I do not see my account listed in CWP,CWP_account_listed_dataentry
- I need to re_open a data entry point,CWP_unsubmit
-how to unsubmit data ,CWP_unsubmit
-any cognos related question or suggestion,CWP_cognos
-Who can I contact for help on CWP,CWP_contact
-How can I reach CWP for help,CWP_contact
-any cognos related question or suggestion,CWP_cognos
-Who can I contact for help on CWP,CWP_contact
-How can I reach CWP for help,CWP_contact
+Where can I find the list of PHI questions for each Sub_domain,CWP_PHI_questions
+What is the status of my access request,CWP_status_access
+what is the target date of Rollover,CWP_targetdate
+how to unsubmit data,CWP_unsubmit
+I need to re_open a data entry point,CWP_unsubmit
+what is PHI,PHI
+CWP RAG Rating Methodology,RAG
+cwp rag,RAG

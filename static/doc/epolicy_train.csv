@@ -1,32 +1,35 @@
-What is ePolicy,ePolicy_About
-What kind of access types are in the ePolicy,ePolicy_About
-ePolicy overview,ePolicy_About
-What is the benefit of ePolicy,ePolicy_About
-What is ePolicy Business Objective,ePolicy_About
 Where can I find education related to epolicy,ePolicy_About
-Whom to contact the ePolicy members,ePolicy_Contact
-who is the contact of the threat management,ePolicy_Contact
-who is the contact of the policy management,ePolicy_Contact
-Who can I contact if I have question regarding ePolicy tool ,ePolicy_Contact
-I have created a threat in the ePolicy for test reason I would like to remove it but there is no delete button What can I do to get it removed ,ePolicy_Threat_Management
-What is the technical specification,ePolicy_Technical_specification
-When do I need a tech spec,ePolicy_Technical_specification
-I have found an existing tech spec in the directory of unsupported account level tech specs or  can I make an update or change to this tech spec,ePolicy_Technical_specification
-Technical specification contacts,ePolicy_Technical_specification
-How to import threats to ePolicy,ePolicy_Technical_specification
-CSD briefly,ePolicy_CSD
-What is CSD,ePolicy_CSD
-What is  GSD331,ePolicy_CSD
-What is  IseC,ePolicy_CSD
-Are there any check_out or check_in process limitations ,ePolicy_Document_Management
-Why can I not move the policy document into IBM approved if I attached DPE and PE approvals as pdf ,ePolicy_Document_Management
-What kind of document type had managed by epolicy,ePolicy_Document_Management
-I have an account with multiple DPEs We have a policy document which should be approved by PE and DPE to move to the next status IBM approved How can I select the validation roles ,ePolicy_Document_Management
-what is policy management,ePolicy_policy_management
-what is the policy management objective,ePolicy_policy_management
-How to open new requirement,ePolicy_improvement
-How to get an access to epolicy,ePolicy_Access
-How can I reach to the epolicy Europe,ePolicy_Access
-How can I reach to the epolicy North America,ePolicy_Access
+What is ePolicy Business Objective,ePolicy_About
+What is the benefit of ePolicy,ePolicy_About
+ePolicy overview,ePolicy_About
+What kind of access types are in the ePolicy,ePolicy_About
+What is ePolicy,ePolicy_About
+I need a new account or  how can I get it created,ePolicy_Access
 How can I reach to the epolicy Asia and MEA or  Japan or  GCG,ePolicy_Access
-I need a new account or  how can I get it created ,ePolicy_Access
+How can I reach to the epolicy North America,ePolicy_Access
+How can I reach to the epolicy Europe,ePolicy_Access
+How to get an access to epolicy,ePolicy_Access
+access epolicy,ePolicy_Access
+Who can I contact if I have question regarding ePolicy tool,ePolicy_Contact
+who is the contact of the policy management,ePolicy_Contact
+who is the contact of the threat management,ePolicy_Contact
+Whom to contact the ePolicy members,ePolicy_Contact
+contact epolicy,ePolicy_Contact
+What is  IseC,ePolicy_CSD
+What is  GSD331,ePolicy_CSD
+What is CSD,ePolicy_CSD
+CSD briefly,ePolicy_CSD
+isec,ePolicy_CSD
+I have an account with multiple DPEs We have a policy document which should be approved by PE and DPE to move to the next status IBM approved How can I select the validation roles,ePolicy_Document_Management
+What kind of document type had managed by epolicy,ePolicy_Document_Management
+Why can I not move the policy document into IBM approved if I attached DPE and PE approvals as pdf,ePolicy_Document_Management
+Are there any check_out or check_in process limitations,ePolicy_Document_Management
+How to open new requirement,ePolicy_improvement
+what is the policy management objective,ePolicy_policy_management
+what is policy management,ePolicy_policy_management
+How to import threats to ePolicy,ePolicy_Technical_specification
+Technical specification contacts,ePolicy_Technical_specification
+I have found an existing tech spec in the directory of unsupported account level tech specs or  can I make an update or change to this tech spec,ePolicy_Technical_specification
+When do I need a tech spec,ePolicy_Technical_specification
+What is the technical specification,ePolicy_Technical_specification
+I have created a threat in the ePolicy for test reason I would like to remove it but there is no delete button What can I do to get it removed,ePolicy_Threat_Management

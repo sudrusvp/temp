@@ -48,20 +48,30 @@ def post():
 	data = request.form['message'].lower()
 	script10 = """<html></html>"""
 	context = {}
+	example_list = [None] * 3
 	class_name = [None] * 3
 	class_name_flag=False
 	
 	""""with open('static/doc/cwp_train.csv', 'rb') as cwp_train:
 		classifier = natural_language_classifier.create(training_data=cwp_train,name='cwp_train',language='en')
 		
+	with open('static/doc/uid_train.csv', 'rb') as uid_train:
+		classifier = natural_language_classifier.create(training_data=uid_train,name='uid_train',language='en')
+	
+	with open('static/doc/urt_train.csv', 'rb') as urt_train:
+		classifier = natural_language_classifier.create(training_data=urt_train,name='urt_train',language='en')
+	
 	with open('static/doc/ecm_train.csv', 'rb') as ecm_train:
 		classifier = natural_language_classifier.create(training_data=ecm_train,name='ecm_train',language='en')
 		
 	with open('static/doc/cirats_train.csv', 'rb') as cirats_train:
 		classifier = natural_language_classifier.create(training_data=cirats_train,name='cirats_train',language='en')
 		
-	with open('static/doc/urt_train.csv', 'rb') as urt_train:
-		classifier = natural_language_classifier.create(training_data=urt_train,name='urt_train',language='en')
+	with open('static/doc/sterm_train.csv', 'rb') as sterm_train:
+		classifier = natural_language_classifier.create(training_data=sterm_train,name='sterm_train',language='en')
+	
+	with open('static/doc/epolicy_train.csv', 'rb') as epolicy_train:
+		classifier = natural_language_classifier.create(training_data=epolicy_train,name='epolicy_train',language='en')
 		
 	classifier = natural_language_classifier.list()
 	print(json.dumps(classifier,indent=2))"""
@@ -79,40 +89,36 @@ def post():
 	
 	response = conversation.message(workspace_id = conv_workspace_id, message_input={'text' : data },context = context)
 	print("***********"+json.dumps(response,indent=2)+"***************")
-	try:
-		current_context=response['context']['current_context']
-	except:
-		print('current_context not there')
-	
+
 	try:
 		if response['intents'][0]['intent']:
 			name = response['intents'][0]['intent']
 			if name == 'goodbye' or name == 'courtesy' or name == 'greetings' or name=='intro' or name=='goodbye':
 				print('smalltalk')
 			else:
-				if current_context=='ecm_context_value':
+				if context1=='ecm_context_value':
 					classifier = natural_language_classifier.classify('359f41x201-nlc-216417',data)
 				
-				""""if current_context=='gem_context_value':
+				""""if context1=='gem_context_value':
 					classifier = natural_language_classifier.classify('359f41x201-nlc-207042',data)"""
 				
-				if current_context=='urt_context_value':
+				if context1=='urt_context_value':
 					classifier = natural_language_classifier.classify('1c5f1ex204-nlc-58503',data)
 					
-				if current_context=='uidext_context_value':
+				if context1=='uidext_context_value':
 					classifier = natural_language_classifier.classify('359f41x201-nlc-207041',data)
 					
-				if current_context=='sterm_context_value':
+				if context1=='sterm_context_value':
 					classifier = natural_language_classifier.classify('359f41x201-nlc-207081',data)
 					
-				if current_context=='cirats_context_value':
+				if context1=='cirats_context_value':
 					classifier = natural_language_classifier.classify('359f41x201-nlc-216419',data)
 					
-				if current_context=='cwp_context_value':
+				if context1=='cwp_context_value':
 					classifier = natural_language_classifier.classify('1c5f1ex204-nlc-58496',data)
 					
-				if current_context=='epolicy_context_value':
-					classifier = natural_language_classifier.classify('359f3fx202-nlc-216145',data)
+				if context1=='epolicy_context_value':
+					classifier = natural_language_classifier.classify('359f3fx202-nlc-207298',data)
 				print(json.dumps(classifier, indent=2))
 				i = 0
 				j = 0
@@ -134,7 +140,7 @@ def post():
 			example_list = [None] * 3
 			i = 0
 			while (i < 3):
-				examples = conversation.list_examples(workspace_id = conv_workspace_id,intent = class_name[i])
+				examples = conversation.list_examples(workspace_id = conv_workspace_id,intent = str(class_name[i]),page_limit=None, include_count=None, sort=None, cursor=None)
 				example_list[i] = examples['examples'][0]['text']
 				i = i +1
 				print(example_list)
@@ -150,7 +156,8 @@ def post():
 		else:
 			print('classnameflag false')
 	except:
-		print("in except")
+		print("error in examples")
+
 	
 	if 'context' in session:
 		session['context'] = json.dumps(response['context'])

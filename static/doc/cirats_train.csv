@@ -1,118 +1,130 @@
-How can I open an NCI record ,Cirats_open_new_record
-Who can open a record,Cirats_open_new_record
-How can I reopen my closed records ,Cirats_reopen_closed_records
-Who can reopen records,Cirats_reopen_closed_records
-How can I add an action plan,Cirats_add_action_plan__record
-Who can add action Plan ,Cirats_add_action_plan__record
-Why can?t I add an action plan,Cirats_add_action_plan__record
-How can I close a record ,Cirats_close_records
-Who can close the record,Cirats_close_records
-How can I change the originator,Cirats_originator__record__role
-Who can change the originator,Cirats_originator__record__role
-How can I delete my department ,Cirats_delete_department
-Who can delete department,Cirats_delete_department
-How can I validate my department ,Cirats_validate_department_account
-I wrongly assigned NCI or  what can I do,Cirats_validate_department_account
-Who can validate department,Cirats_validate_department_account
-How can I transfer records from one department to another ,Cirats_transfer_records
-Who can transfer records,Cirats_transfer_records
-How can I add an action plan,Cirats_transfer_records
-Why do receive error message when department is updated,Cirats_department_id__division_code__update__bluepages
-How can I add technical contacts to my departments,Cirats_add_technical_contact__department
-Who can add technical contacts,Cirats_add_technical_contact__department
-How can I add new account into CIRATS ,Cirats_add__new_account
-Who can add new account,Cirats_add__new_account
-How can I edit my account document ,Cirats_edit_account_document__DPE__delegate
-Who can edit account document,Cirats_edit_account_document__DPE__delegate
-How can I change or modify device type ,Cirats_device_type__account__DPE__disable__enable
-What is device type ,Cirats_device_type__account__DPE__disable__enable
-Where can I set device type,Cirats_device_type__account__DPE__disable__enable
-How can I set customer notification ,Cirats_customer_notification__account_commercial
-Who can set customer notification ,Cirats_customer_notification__account_commercial
-What is customer notification,Cirats_customer_notification__account_commercial
-Why dont I receive PA notifications,Cirats_notifications__supported_product__software__platform_type_patch_advisory
-How can I close a patch advisory as not_ applicable ,Cirats_patch_advisory__not_applicable
-When a patch advisory is not_applicable,Cirats_patch_advisory__not_applicable
-Where can I find supported softwares,Cirats_supported_software__patch_advisory
-what can I doWho can validate department,Cirats_supported_software__patch_advisory
-Why cant I see the records ,Cirats_record__role__access__user__view
-Why can?t I see my department ,Cirats_record__role__access__user__view
-Why can?t I see my account,Cirats_record__role__access__user__view
-department actions,Cirats_department_actions
-How can I delete my department ,Cirats_department_delete
-Who can delete department,Cirats_department_delete
-Where can I add new department ,Cirats_department_add
-Who can add new department,Cirats_department_add
-How can I add technical contacts to my departments,Cirats_department_add
-Who can add technical contacts,Cirats_department_add
-where can I edit new department ,Cirats_department_edit
-Who can edit new department,Cirats_department_edit
-account actions,Cirats_account_actions
-how can I delete my account ,Cirats_account_delete
-Who can delete account,Cirats_account_delete
-how can I add my account,Cirats_account_add
- Who can add account,Cirats_account_add
-how can I edit my account,Cirats_account_edit
-Who can edit account, Cirats_account_edit
-device type,Cirats_device_type
-account specific device type,Cirats_account_specific_device_type
-who can modify device type ,Cirats_modify_diable_device_type
-How can device type be enabled ,Cirats_modify_diable_device_type
-How can deice type be disabled,Cirats_modify_diable_device_type
-Who can define Isec severity ,Cirats_Isec
-How can I  define Isec severity,Cirats_Isec
-What is customer notification ,Cirats_customer_notification
-Who can set customer notification ,Cirats_customer_notification
-Can Internal accounts set customer notification,Cirats_customer_notification
-platform,Cirats_platform
-Who can add platform and system type ,Cirats_adding_platform
-Where can I add platform and system type,Cirats_adding_platform
-Who deletes platform and system type ,Cirats_deleting_platform
-Where can I delete platform and system type,Cirats_deleting_platform
-Noncompliance issue actions,Cirats_Noncompliance_issue_actions
-Who can create non compliance issue How can I create non compliance issue,Cirats_Creating_Noncompliance_issue
-Who can extend Non compliance issue using date extension process ,Cirats_date_extension_process
-How can I extend an Non compliance issue,Cirats_date_extension_process
-Who can extend non compliance issue using risk evaluation process ,Cirats_risk_evaluation_process
-Who can transfer records How can I transfer records,Cirats_transferring_Noncompliance_issue
-How can I add an action plan,Cirats_action_plan_Noncompliance_issue
-Who can add action Plan ,Cirats_action_plan_Noncompliance_issue
-Why cant I add an action plan,Cirats_action_plan_Noncompliance_issue
-How can I close a record ,Cirats_Close_Noncompliance_issue
-Who can close the record,Cirats_Close_Noncompliance_issue
-How can I reopen my closed records ,Cirats_Noncompliance_issue
-Who can reopen records,Cirats_Noncompliance_issue
-Patch advisory actions,Cirats_Patch_advisory
-who opens patch advisory,Cirats_creating_PA
-when can I mark a patch advisory as not applicable ,Cirats_PA_NA
-How will I know the patch advisory is not applicable,Cirats_PA_NA
-Who marks a patch advisory as applicable ,Cirats_PA_installed
-How do I know a patch advisory is applicable,Cirats_PA_installed
-How can I extend PA using date extension process ,Cirats_PA_date_extension_process
-Who can extend PA using date extension process,Cirats_PA_date_extension_process
-extending PA using risk evaluation process,Cirats_PA_risk_evaluation_process
-Who can transfer records ,Cirats_transferring_PA
-How can I transfer records,Cirats_transferring_PA
-How can I close a record ,Cirats_closing_PA
-Who can close the record,Cirats_closing_PA
-How can I reopen my closed records ,Cirats_re_opening_PA
-Who can reopen records,Cirats_re_opening_PA
-What is CIRATS,what_is_cirats
-How can I access to the CIRATS America and Europe ,cirats_access
-Where can I find a link to CIRATS AG,cirats_access
-How can I access to the CIRATS AP and Japan ,cirats_access
-Where can I find a link to CIRATS AP,cirats_access
 What is the link for CARD DB,card_DB_link
-What is the link for CIRATS_wiki,cirats_wiki
-How can download report from cognos,cognos
-Who are Key Contacts and IOT focals,CIRATS_Key_Contacts_IOT_focals
+Where can I find a link to CIRATS AP,cirats_access
+How can I access to the CIRATS AP and Japan,cirats_access
+Where can I find a link to CIRATS AG,cirats_access
+How can I access to the CIRATS America and Europe,cirats_access
+cirats access,cirats_access
 What access granted for CIRATS Groups,CIRATS_Access_Groups
+cirats account actions,Cirats_account_actions
+Who can add account in cirats,Cirats_account_add
+how can I add my account in cirats,Cirats_account_add
+Who can delete account in cirats,Cirats_account_delete
+how can I delete my account in cirats,Cirats_account_delete
+Who can edit account in cirats,Cirats_account_edit
+how can I edit my account in cirats,Cirats_account_edit
+account specific device type in cirats,Cirats_account_specific_device_type
+Who can add action Plan to NCI,Cirats_action_plan_Noncompliance_issue
+Who can add action Plan to cirats,Cirats_add_action_plan__record
+How can I add an action plan to cirats,Cirats_add_action_plan__record
+add action plan,Cirats_add_action_plan__record
+who can add action plan,Cirats_add_action_plan__record
+Where can I add platform and system type,Cirats_adding_platform
+Who can add platform and system type,Cirats_adding_platform
+How can I add new account into CIRATS,Cirats_add__new_account
+Who can add new account,Cirats_add__new_account
+Who can add technical contacts,Cirats_add_technical_contact__department
+How can I add technical contacts to my department,Cirats_add_technical_contact__department
+Who can close the record,Cirats_Close_Noncompliance_issue
+How can I close a record,Cirats_Close_Noncompliance_issue
+Who can close the record,Cirats_close_records
+How can I close a record,Cirats_close_records
+Who can close the record,Cirats_closing_PA
+How can I close a record,Cirats_closing_PA
+cirats contact,cirats_contact
+Who can create non compliance issue,Cirats_Creating_Noncompliance_issue
+How can I create non compliance issue,Cirats_Creating_Noncompliance_issue
+who opens patch advisory,Cirats_creating_PA
+who can create pa,Cirats_creating_PA
+Can Internal accounts set customer notification,Cirats_customer_notification
+What is customer notification,Cirats_customer_notification
+Who can set customer notification,Cirats_customer_notification
+What is customer notification,Cirats_customer_notification__account_commercial
+Who can set customer notification,Cirats_customer_notification__account_commercial
+How can I set customer notification,Cirats_customer_notification__account_commercial
+How can I extend an Non compliance issue,Cirats_date_extension_process
+Who can extend Non compliance issue using date extension process,Cirats_date_extension_process
+Who can delete department,Cirats_delete_department
+How can I delete my department,Cirats_delete_department
+Where can I delete platform and system type,Cirats_deleting_platform
+Who deletes platform and system type,Cirats_deleting_platform
+department actions,Cirats_department_actions
+Who can add technical contacts,Cirats_department_add
+How can I add technical contacts to my departments,Cirats_department_add
+Who can add new department,Cirats_department_add
+Where can I add new department,Cirats_department_add
+Who can delete department,Cirats_department_delete
+How can I delete my department,Cirats_department_delete
+Who can edit new department,Cirats_department_edit
+where can I edit new department,Cirats_department_edit
+Why do I receive error message when department is updated,Cirats_department_id__division_code__update__bluepages
+Who can request for new requirements or development queries,CIRATS_Development
+device type,Cirats_device_type
+Where can I set device type,Cirats_device_type__account__DPE__disable__enable
+What is device type,Cirats_device_type__account__DPE__disable__enable
+How can I change or modify device type,Cirats_device_type__account__DPE__disable__enable
+Who can edit account document,Cirats_edit_account_document__DPE__delegate
+How can I edit my account document,Cirats_edit_account_document__DPE__delegate
+Who can define Isec severity,Cirats_Isec
+How can I define Isec severity,Cirats_Isec
+Who are Key Contacts and IOT focals,CIRATS_Key_Contacts_IOT_focals
+How can device type be enabled,Cirats_modify_diable_device_type
+who can modify device type,Cirats_modify_diable_device_type
+who can modify the device type,Cirats_modify_diable_device_type
+Who can reopen records,Cirats_Noncompliance_issue
+How can I reopen my closed records,Cirats_Noncompliance_issue
+Noncompliance issue actions,Cirats_Noncompliance_issue_actions
+Why dont I receive PA notifications,Cirats_notifications__supported_product__software__platform_type_patch_advisory
+Who can open a record,Cirats_open_new_record
+How can I open an NCI record,Cirats_open_new_record
+Who can change the originator,Cirats_originator__record__role
+How can I change the originator,Cirats_originator__record__role
+Who can extend PA using date extension process,Cirats_PA_date_extension_process
+How can I extend PA using date extension process,Cirats_PA_date_extension_process
+How do I know a patch advisory is applicable,Cirats_PA_installed
+Who marks a patch advisory as applicable,Cirats_PA_installed
+How will I know the patch advisory is not applicable,Cirats_PA_NA
+when can I mark a patch advisory as not applicable,Cirats_PA_NA
+extending PA using risk evaluation process,Cirats_PA_risk_evaluation_process
+Patch advisory actions,Cirats_Patch_advisory
+When a patch advisory is not_applicable,Cirats_patch_advisory__not_applicable
+How can I close a patch advisory as not applicable,Cirats_patch_advisory__not_applicable
+cirats platform,Cirats_platform
 Where can I find the CIRATS major processes,CIRATS_Processes
-Who can request new requirements or development queries,CIRATS_Development
-Where can I find the CIRATS parameter settings or  platform list or  notification settings,CIRATS_Settings
-What CIRATS is used for What types of non_compliance issues supported,general_tool_CIRATS
-What is control issue,general_tool_CIRATS_issue_type
- Whats the difference between control and security compliance issue,general_tool_CIRATS_issue_type
-What is security compliance issue ,general_tool_CIRATS_issue_type
-Whats the difference between control and security compliance issue,general_tool_CIRATS_issue_type
+Why can?t I see my department,Cirats_record__role__access__user__view
+Why cant I see the records,Cirats_record__role__access__user__view
+Why can't I see the records,Cirats_record__role__access__user__view
+Who can reopen records,Cirats_reopen_closed_records
+How can I reopen my closed records,Cirats_reopen_closed_records
+cirats reopen closed record,Cirats_reopen_closed_records
+How can I reopen my closed records?,Cirats_reopen_closed_records
+Who can reopen records,Cirats_re_opening_PA
+How can I reopen my closed records,Cirats_re_opening_PA
+Who can extend non compliance issue using risk evaluation process,Cirats_risk_evaluation_process
+Where can I find the CIRATS parameter settings or platform list or notification settings,CIRATS_Settings
+Where can I find supported softwares,Cirats_supported_software__patch_advisory
+what can I do ? Who can validate department,Cirats_supported_software__patch_advisory
+Who can transfer records,Cirats_transfer_records
+How can I transfer records from one department to another,Cirats_transfer_records
+How can I add an action plan,Cirats_transfer_records
+How can I transfer records,Cirats_transferring_Noncompliance_issue
+Who can transfer records,Cirats_transferring_PA
+How can I transfer records,Cirats_transferring_PA
+Who can validate department,Cirats_validate_department_account
+How can I validate my department,Cirats_validate_department_account
+I wrongly assigned NCI.  what can I do,Cirats_validate_department_account
+cirats wiki,cirats_wiki
+What is the link for CIRATS wiki,cirats_wiki
+How can I download report from cognos,cognos
+Uploaded MHC not reflecting ? scan show on the OTHER,file_upload
+Uploaded MHC not reflecting date format,file_upload
+Uploaded MHC not reflecting field separator,file_upload
+Uploaded MHC not reflecting policy Item,file_upload
+Uploaded MHC not reflecting,file_upload
+CIRATS is used for,general_tool_CIRATS
+What types of non compliance issues supported,general_tool_CIRATS
+What CIRATS is used for What types of non compliance issues supported,general_tool_CIRATS
 What is issue management process,general_tool_CIRATS_issue_management_process
+What is security compliance issue,general_tool_CIRATS_issue_type
+Whats the difference between control and security compliance issue,general_tool_CIRATS_issue_type
+What is control issue,general_tool_CIRATS_issue_type
+What is CIRATS,what_is_cirats
