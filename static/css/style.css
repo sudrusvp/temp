@@ -1,3 +1,15 @@
+.nps-promoter {
+    width: 100%;
+    /*position: absolute;*/
+    z-index: 99999;
+    border: none;
+}
+.nps-promoter iframe {
+    position: relative;
+    width: 100%;
+    height: 180px;
+    border: none;
+}
 
 .chatdiv{
 
